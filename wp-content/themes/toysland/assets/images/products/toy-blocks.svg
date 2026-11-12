@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+    <defs>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#DCFCE7"/>
+        <stop offset="100%" stop-color="#BBF7D0"/>
+      </linearGradient>
+      <filter id="toyShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#25213A" flood-opacity="0.12"/>
+      </filter>
+    </defs>
+    <!-- Background card -->
+    <rect width="400" height="400" rx="32" fill="url(#bgGrad)"/>
+    <!-- Subtle pattern circles -->
+    <circle cx="60" cy="60" r="30" fill="#FFFFFF" opacity="0.25"/>
+    <circle cx="340" cy="80" r="45" fill="#FFFFFF" opacity="0.2"/>
+    <circle cx="330" cy="330" r="25" fill="#FFFFFF" opacity="0.25"/>
+    <circle cx="80" cy="320" r="40" fill="#FFFFFF" opacity="0.2"/>
+    <!-- Main Toy Artwork -->
+    <g filter="url(#toyShadow)" transform="translate(0, 0)">
+      
+    <!-- Building blocks -->
+    <rect x="110" y="220" width="80" height="80" rx="14" fill="#EF4444"/>
+    <text x="150" y="275" font-family="Arial Black, sans-serif" font-size="44" font-weight="900" fill="#FFF" text-anchor="middle">A</text>
+    <rect x="210" y="220" width="80" height="80" rx="14" fill="#3B82F6"/>
+    <text x="250" y="275" font-family="Arial Black, sans-serif" font-size="44" font-weight="900" fill="#FFF" text-anchor="middle">B</text>
+    <rect x="160" y="125" width="80" height="80" rx="14" fill="#FBBF24"/>
+    <text x="200" y="180" font-family="Arial Black, sans-serif" font-size="44" font-weight="900" fill="#FFF" text-anchor="middle">C</text>
+  
+    </g>
+  </svg>

@@ -1,0 +1,5020 @@
+[
+  {
+    "id": 313,
+    "name": "Փայտե ձկնորսական խաղ",
+    "slug": "%d6%83%d5%a1%d5%b5%d5%bf%d5%a5-%d5%b1%d5%af%d5%b6%d5%b8%d6%80%d5%bd%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d5%b5%d5%bf%d5%a5-%d5%b1%d5%af%d5%b6%d5%b8%d6%80%d5%bd%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2/",
+    "sku": "TOY-1050",
+    "short_description": "<p>Մագնիսական ձկնորսական խաղ՝ ձեռքի շարժումների ճշգրտությունը զարգացնելու համար։</p>",
+    "description": "<p>Մագնիսական ձկնորսական խաղ՝ ձեռքի շարժումների ճշգրտությունը զարգացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "5300",
+      "regular_price": "5300",
+      "sale_price": "5300",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">5 300&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 36,
+        "name": "Մանկական զարգացնող խաղեր",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փայտե ձկնորսական խաղ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=313",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/313",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=313&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 312,
+    "name": "Հիշողության քարտեր",
+    "slug": "%d5%b0%d5%ab%d5%b7%d5%b8%d5%b2%d5%b8%d6%82%d5%a9%d5%b5%d5%a1%d5%b6-%d6%84%d5%a1%d6%80%d5%bf%d5%a5%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b0%d5%ab%d5%b7%d5%b8%d5%b2%d5%b8%d6%82%d5%a9%d5%b5%d5%a1%d5%b6-%d6%84%d5%a1%d6%80%d5%bf%d5%a5%d6%80/",
+    "sku": "TOY-1049",
+    "short_description": "<p>Պատկերային քարտեր՝ հիշողության և զույգերը գտնելու հմտությունը զարգացնելու համար։</p>",
+    "description": "<p>Պատկերային քարտեր՝ հիշողության և զույգերը գտնելու հմտությունը զարգացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "2500",
+      "regular_price": "2500",
+      "sale_price": "2500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">2 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 36,
+        "name": "Մանկական զարգացնող խաղեր",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Հիշողության քարտեր&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=312",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/312",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=312&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 311,
+    "name": "Մանկական լաբիրինթոս",
+    "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%ac%d5%a1%d5%a2%d5%ab%d6%80%d5%ab%d5%b6%d5%a9%d5%b8%d5%bd",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%ac%d5%a1%d5%a2%d5%ab%d6%80%d5%ab%d5%b6%d5%a9%d5%b8%d5%bd/",
+    "sku": "TOY-1048",
+    "short_description": "<p>Գունավոր լաբիրինթոս՝ գնդիկը ճիշտ ճանապարհով տեղափոխելու համար։</p>",
+    "description": "<p>Գունավոր լաբիրինթոս՝ գնդիկը ճիշտ ճանապարհով տեղափոխելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "4700",
+      "regular_price": "4700",
+      "sale_price": "4700",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">4 700&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 36,
+        "name": "Մանկական զարգացնող խաղեր",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Մանկական լաբիրինթոս&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=311",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/311",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=311&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 310,
+    "name": "Հավասարակշռության աշտարակ",
+    "slug": "%d5%b0%d5%a1%d5%be%d5%a1%d5%bd%d5%a1%d6%80%d5%a1%d5%af%d5%b7%d5%bc%d5%b8%d6%82%d5%a9%d5%b5%d5%a1%d5%b6-%d5%a1%d5%b7%d5%bf%d5%a1%d6%80%d5%a1%d5%af",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b0%d5%a1%d5%be%d5%a1%d5%bd%d5%a1%d6%80%d5%a1%d5%af%d5%b7%d5%bc%d5%b8%d6%82%d5%a9%d5%b5%d5%a1%d5%b6-%d5%a1%d5%b7%d5%bf%d5%a1%d6%80%d5%a1%d5%af/",
+    "sku": "TOY-1047",
+    "short_description": "<p>Շերտավոր խաղ՝ հավասարակշռությունն ու կենտրոնացումը զարգացնելու համար։</p>",
+    "description": "<p>Շերտավոր խաղ՝ հավասարակշռությունն ու կենտրոնացումը զարգացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3900",
+      "regular_price": "3900",
+      "sale_price": "3900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 36,
+        "name": "Մանկական զարգացնող խաղեր",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Հավասարակշռության աշտարակ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=310",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/310",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=310&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 309,
+    "name": "Փայտե ձևերի տեսակավորիչ",
+    "slug": "%d6%83%d5%a1%d5%b5%d5%bf%d5%a5-%d5%b1%d6%87%d5%a5%d6%80%d5%ab-%d5%bf%d5%a5%d5%bd%d5%a1%d5%af%d5%a1%d5%be%d5%b8%d6%80%d5%ab%d5%b9",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d5%b5%d5%bf%d5%a5-%d5%b1%d6%87%d5%a5%d6%80%d5%ab-%d5%bf%d5%a5%d5%bd%d5%a1%d5%af%d5%a1%d5%be%d5%b8%d6%80%d5%ab%d5%b9/",
+    "sku": "TOY-1046",
+    "short_description": "<p>Փայտե խաղալիք՝ ձևերը համապատասխան անցքերում տեղադրելու համար։</p>",
+    "description": "<p>Փայտե խաղալիք՝ ձևերը համապատասխան անցքերում տեղադրելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "4300",
+      "regular_price": "4300",
+      "sale_price": "4300",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">4 300&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 36,
+        "name": "Մանկական զարգացնող խաղեր",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a6%d5%a1%d6%80%d5%a3%d5%a1%d6%81%d5%b6%d5%b8%d5%b2-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փայտե ձևերի տեսակավորիչ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=309",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/309",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=309&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 308,
+    "name": "Խաղալիք միկրոֆոն",
+    "slug": "%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%b4%d5%ab%d5%af%d6%80%d5%b8%d6%86%d5%b8%d5%b6",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%b4%d5%ab%d5%af%d6%80%d5%b8%d6%86%d5%b8%d5%b6/",
+    "sku": "TOY-1045",
+    "short_description": "<p>Մանկական միկրոֆոն՝ երգելու և դերային խաղերի համար։</p>",
+    "description": "<p>Մանկական միկրոֆոն՝ երգելու և դերային խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "6100",
+      "regular_price": "6100",
+      "sale_price": "6100",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">6 100&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 35,
+        "name": "Մանկական երաժշտական խաղալիքներ",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Խաղալիք միկրոֆոն&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=308",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/308",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=308&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 307,
+    "name": "Երաժշտական քսիլոֆոն",
+    "slug": "%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d6%84%d5%bd%d5%ab%d5%ac%d5%b8%d6%86%d5%b8%d5%b6",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d6%84%d5%bd%d5%ab%d5%ac%d5%b8%d6%86%d5%b8%d5%b6/",
+    "sku": "TOY-1044",
+    "short_description": "<p>Գունավոր քսիլոֆոն՝ հնչյուններն ու ռիթմը բացահայտելու համար։</p>",
+    "description": "<p>Գունավոր քսիլոֆոն՝ հնչյուններն ու ռիթմը բացահայտելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "5600",
+      "regular_price": "5600",
+      "sale_price": "5600",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">5 600&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 35,
+        "name": "Մանկական երաժշտական խաղալիքներ",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Երաժշտական քսիլոֆոն&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=307",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/307",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=307&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 306,
+    "name": "Մանկական թմբուկ",
+    "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a9%d5%b4%d5%a2%d5%b8%d6%82%d5%af",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a9%d5%b4%d5%a2%d5%b8%d6%82%d5%af/",
+    "sku": "TOY-1043",
+    "short_description": "<p>Թեթև թմբուկ՝ ռիթմիկ խաղերի և երաժշտական ժամանցի համար։</p>",
+    "description": "<p>Թեթև թմբուկ՝ ռիթմիկ խաղերի և երաժշտական ժամանցի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "4900",
+      "regular_price": "4900",
+      "sale_price": "4900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">4 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 35,
+        "name": "Մանկական երաժշտական խաղալիքներ",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Մանկական թմբուկ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=306",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/306",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=306&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 305,
+    "name": "Խաղալիք կիթառ",
+    "slug": "%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%af%d5%ab%d5%a9%d5%a1%d5%bc",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%af%d5%ab%d5%a9%d5%a1%d5%bc/",
+    "sku": "TOY-1042",
+    "short_description": "<p>Մանկական կիթառ՝ ռիթմի և երաժշտության հանդեպ հետաքրքրությունը խթանելու համար։</p>",
+    "description": "<p>Մանկական կիթառ՝ ռիթմի և երաժշտության հանդեպ հետաքրքրությունը խթանելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "7200",
+      "regular_price": "7200",
+      "sale_price": "7200",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">7 200&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 35,
+        "name": "Մանկական երաժշտական խաղալիքներ",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Խաղալիք կիթառ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=305",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/305",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=305&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 304,
+    "name": "Մանկական դաշնամուր",
+    "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a4%d5%a1%d5%b7%d5%b6%d5%a1%d5%b4%d5%b8%d6%82%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a4%d5%a1%d5%b7%d5%b6%d5%a1%d5%b4%d5%b8%d6%82%d6%80/",
+    "sku": "TOY-1041",
+    "short_description": "<p>Փոքրիկ ստեղնաշարային գործիք՝ երաժշտական առաջին փորձերի համար։</p>",
+    "description": "<p>Փոքրիկ ստեղնաշարային գործիք՝ երաժշտական առաջին փորձերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "8900",
+      "regular_price": "8900",
+      "sale_price": "8900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">8 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 35,
+        "name": "Մանկական երաժշտական խաղալիքներ",
+        "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a5%d6%80%d5%a1%d5%aa%d5%b7%d5%bf%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Մանկական դաշնամուր&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=304",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/304",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=304&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 303,
+    "name": "Թռչող օդապարիկ",
+    "slug": "%d5%a9%d5%bc%d5%b9%d5%b8%d5%b2-%d6%85%d5%a4%d5%a1%d5%ba%d5%a1%d6%80%d5%ab%d5%af",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a9%d5%bc%d5%b9%d5%b8%d5%b2-%d6%85%d5%a4%d5%a1%d5%ba%d5%a1%d6%80%d5%ab%d5%af/",
+    "sku": "TOY-1040",
+    "short_description": "<p>Գունավոր օդապարիկ՝ քամոտ եղանակին բացօթյա ժամանցի համար։</p>",
+    "description": "<p>Գունավոր օդապարիկ՝ քամոտ եղանակին բացօթյա ժամանցի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "2900",
+      "regular_price": "2900",
+      "sale_price": "2900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">2 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 34,
+        "name": "Բացօթյա խաղալիքներ",
+        "slug": "%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Թռչող օդապարիկ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=303",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/303",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=303&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 302,
+    "name": "Ավազի խաղային հավաքածու",
+    "slug": "%d5%a1%d5%be%d5%a1%d5%a6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a1%d5%b5%d5%ab%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a1%d5%be%d5%a1%d5%a6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a1%d5%b5%d5%ab%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1039",
+    "short_description": "<p>Դույլով, բահով և ձևամաններով հավաքածու՝ ավազի խաղերի համար։</p>",
+    "description": "<p>Դույլով, բահով և ձևամաններով հավաքածու՝ ավազի խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3200",
+      "regular_price": "3200",
+      "sale_price": "3200",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 200&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 34,
+        "name": "Բացօթյա խաղալիքներ",
+        "slug": "%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Ավազի խաղային հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=302",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/302",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=302&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 301,
+    "name": "Օճառի պղպջակների հավաքածու",
+    "slug": "%d6%85%d5%b3%d5%a1%d5%bc%d5%ab-%d5%ba%d5%b2%d5%ba%d5%bb%d5%a1%d5%af%d5%b6%d5%a5%d6%80%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%85%d5%b3%d5%a1%d5%bc%d5%ab-%d5%ba%d5%b2%d5%ba%d5%bb%d5%a1%d5%af%d5%b6%d5%a5%d6%80%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1038",
+    "short_description": "<p>Պղպջակներ փչելու խաղալիք՝ ուրախ ժամանցի համար։</p>",
+    "description": "<p>Պղպջակներ փչելու խաղալիք՝ ուրախ ժամանցի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "1500",
+      "regular_price": "1500",
+      "sale_price": "1500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">1 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 34,
+        "name": "Բացօթյա խաղալիքներ",
+        "slug": "%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Օճառի պղպջակների հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=301",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/301",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=301&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 300,
+    "name": "Թռչող սկավառակ",
+    "slug": "%d5%a9%d5%bc%d5%b9%d5%b8%d5%b2-%d5%bd%d5%af%d5%a1%d5%be%d5%a1%d5%bc%d5%a1%d5%af",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a9%d5%bc%d5%b9%d5%b8%d5%b2-%d5%bd%d5%af%d5%a1%d5%be%d5%a1%d5%bc%d5%a1%d5%af/",
+    "sku": "TOY-1037",
+    "short_description": "<p>Թեթև սկավառակ՝ բացօթյա ակտիվ խաղերի համար։</p>",
+    "description": "<p>Թեթև սկավառակ՝ բացօթյա ակտիվ խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "1800",
+      "regular_price": "1800",
+      "sale_price": "1800",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">1 800&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 34,
+        "name": "Բացօթյա խաղալիքներ",
+        "slug": "%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Թռչող սկավառակ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=300",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/300",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=300&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 299,
+    "name": "Մանկական գնդակ",
+    "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a3%d5%b6%d5%a4%d5%a1%d5%af",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%a3%d5%b6%d5%a4%d5%a1%d5%af/",
+    "sku": "TOY-1036",
+    "short_description": "<p>Թեթև և գունավոր գնդակ՝ բակում և զբոսայգում խաղալու համար։</p>",
+    "description": "<p>Թեթև և գունավոր գնդակ՝ բակում և զբոսայգում խաղալու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "2600",
+      "regular_price": "2600",
+      "sale_price": "2600",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">2 600&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 34,
+        "name": "Բացօթյա խաղալիքներ",
+        "slug": "%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%a2%d5%a1%d6%81%d6%85%d5%a9%d5%b5%d5%a1-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Մանկական գնդակ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=299",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/299",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=299&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 298,
+    "name": "Թղթե ձեռագործության հավաքածու",
+    "slug": "%d5%a9%d5%b2%d5%a9%d5%a5-%d5%b1%d5%a5%d5%bc%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%b8%d6%82%d5%a9%d5%b5%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a9%d5%b2%d5%a9%d5%a5-%d5%b1%d5%a5%d5%bc%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%b8%d6%82%d5%a9%d5%b5%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1035",
+    "short_description": "<p>Գունավոր թղթերով և պարագաներով հավաքածու՝ ձեռագործ աշխատանքների համար։</p>",
+    "description": "<p>Գունավոր թղթերով և պարագաներով հավաքածու՝ ձեռագործ աշխատանքների համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3400",
+      "regular_price": "3400",
+      "sale_price": "3400",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 400&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 33,
+        "name": "Ստեղծագործական հավաքածուներ",
+        "slug": "%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Թղթե ձեռագործության հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=298",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/298",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=298&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 297,
+    "name": "Ներկերով ստեղծագործական հավաքածու",
+    "slug": "%d5%b6%d5%a5%d6%80%d5%af%d5%a5%d6%80%d5%b8%d5%be-%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b6%d5%a5%d6%80%d5%af%d5%a5%d6%80%d5%b8%d5%be-%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1034",
+    "short_description": "<p>Ներկերով և վրձիններով հավաքածու՝ գունավոր աշխատանքներ ստեղծելու համար։</p>",
+    "description": "<p>Ներկերով և վրձիններով հավաքածու՝ գունավոր աշխատանքներ ստեղծելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "5200",
+      "regular_price": "5200",
+      "sale_price": "5200",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">5 200&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 33,
+        "name": "Ստեղծագործական հավաքածուներ",
+        "slug": "%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Ներկերով ստեղծագործական հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=297",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/297",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=297&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 296,
+    "name": "Մանկական ուլունքների հավաքածու",
+    "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%b8%d6%82%d5%ac%d5%b8%d6%82%d5%b6%d6%84%d5%b6%d5%a5%d6%80%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%b8%d6%82%d5%ac%d5%b8%d6%82%d5%b6%d6%84%d5%b6%d5%a5%d6%80%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1033",
+    "short_description": "<p>Գունավոր ուլունքներ՝ զարդեր և ձեռագործ աշխատանքներ պատրաստելու համար։</p>",
+    "description": "<p>Գունավոր ուլունքներ՝ զարդեր և ձեռագործ աշխատանքներ պատրաստելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "4500",
+      "regular_price": "4500",
+      "sale_price": "4500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">4 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 33,
+        "name": "Ստեղծագործական հավաքածուներ",
+        "slug": "%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Մանկական ուլունքների հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=296",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/296",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=296&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 295,
+    "name": "Պլաստիլինի հավաքածու",
+    "slug": "%d5%ba%d5%ac%d5%a1%d5%bd%d5%bf%d5%ab%d5%ac%d5%ab%d5%b6%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%ba%d5%ac%d5%a1%d5%bd%d5%bf%d5%ab%d5%ac%d5%ab%d5%b6%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1032",
+    "short_description": "<p>Տարբեր գույների պլաստիլին՝ կերպարներ և պատկերներ պատրաստելու համար։</p>",
+    "description": "<p>Տարբեր գույների պլաստիլին՝ կերպարներ և պատկերներ պատրաստելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3700",
+      "regular_price": "3700",
+      "sale_price": "3700",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 700&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 33,
+        "name": "Ստեղծագործական հավաքածուներ",
+        "slug": "%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Պլաստիլինի հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=295",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/295",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=295&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 294,
+    "name": "Նկարչական հավաքածու",
+    "slug": "%d5%b6%d5%af%d5%a1%d6%80%d5%b9%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b6%d5%af%d5%a1%d6%80%d5%b9%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1031",
+    "short_description": "<p>Գունավոր մատիտներով և նկարչական պարագաներով հավաքածու՝ ստեղծագործելու համար։</p>",
+    "description": "<p>Գունավոր մատիտներով և նկարչական պարագաներով հավաքածու՝ ստեղծագործելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "5900",
+      "regular_price": "5900",
+      "sale_price": "5900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">5 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 33,
+        "name": "Ստեղծագործական հավաքածուներ",
+        "slug": "%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bd%d5%bf%d5%a5%d5%b2%d5%ae%d5%a1%d5%a3%d5%b8%d6%80%d5%ae%d5%a1%d5%af%d5%a1%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Նկարչական հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=294",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/294",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=294&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 293,
+    "name": "Ընտանեկան սեղանի խաղ",
+    "slug": "%d5%a8%d5%b6%d5%bf%d5%a1%d5%b6%d5%a5%d5%af%d5%a1%d5%b6-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a8%d5%b6%d5%bf%d5%a1%d5%b6%d5%a5%d5%af%d5%a1%d5%b6-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2/",
+    "sku": "TOY-1030",
+    "short_description": "<p>Հետաքրքիր սեղանի խաղ՝ ընկերների և ընտանիքի հետ ժամանակ անցկացնելու համար։</p>",
+    "description": "<p>Հետաքրքիր սեղանի խաղ՝ ընկերների և ընտանիքի հետ ժամանակ անցկացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "6400",
+      "regular_price": "6400",
+      "sale_price": "6400",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">6 400&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 32,
+        "name": "Փազլներ և սեղանի խաղեր",
+        "slug": "%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Ընտանեկան սեղանի խաղ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=293",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/293",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=293&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 292,
+    "name": "Դոմինո՝ գունավոր պատկերներով",
+    "slug": "%d5%a4%d5%b8%d5%b4%d5%ab%d5%b6%d5%b8%d5%9d-%d5%a3%d5%b8%d6%82%d5%b6%d5%a1%d5%be%d5%b8%d6%80-%d5%ba%d5%a1%d5%bf%d5%af%d5%a5%d6%80%d5%b6%d5%a5%d6%80%d5%b8%d5%be",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a4%d5%b8%d5%b4%d5%ab%d5%b6%d5%b8%d5%9d-%d5%a3%d5%b8%d6%82%d5%b6%d5%a1%d5%be%d5%b8%d6%80-%d5%ba%d5%a1%d5%bf%d5%af%d5%a5%d6%80%d5%b6%d5%a5%d6%80%d5%b8%d5%be/",
+    "sku": "TOY-1029",
+    "short_description": "<p>Պատկերներով դոմինո՝ երեխաների և ընտանիքի համատեղ խաղերի համար։</p>",
+    "description": "<p>Պատկերներով դոմինո՝ երեխաների և ընտանիքի համատեղ խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "2400",
+      "regular_price": "2400",
+      "sale_price": "2400",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">2 400&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 32,
+        "name": "Փազլներ և սեղանի խաղեր",
+        "slug": "%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Դոմինո՝ գունավոր պատկերներով&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=292",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/292",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=292&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 291,
+    "name": "Լոտո՝ կենդանիներ",
+    "slug": "%d5%ac%d5%b8%d5%bf%d5%b8%d5%9d-%d5%af%d5%a5%d5%b6%d5%a4%d5%a1%d5%b6%d5%ab%d5%b6%d5%a5%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%ac%d5%b8%d5%bf%d5%b8%d5%9d-%d5%af%d5%a5%d5%b6%d5%a4%d5%a1%d5%b6%d5%ab%d5%b6%d5%a5%d6%80/",
+    "sku": "TOY-1028",
+    "short_description": "<p>Պարզ և զվարճալի լոտո խաղ՝ հիշողությունն ու դիտողականությունը զարգացնելու համար։</p>",
+    "description": "<p>Պարզ և զվարճալի լոտո խաղ՝ հիշողությունն ու դիտողականությունը զարգացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3100",
+      "regular_price": "3100",
+      "sale_price": "3100",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 100&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 32,
+        "name": "Փազլներ և սեղանի խաղեր",
+        "slug": "%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Լոտո՝ կենդանիներ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=291",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/291",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=291&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 290,
+    "name": "Փազլ՝ Հայաստանի տեսարժան վայրեր",
+    "slug": "%d6%83%d5%a1%d5%a6%d5%ac%d5%9d-%d5%b0%d5%a1%d5%b5%d5%a1%d5%bd%d5%bf%d5%a1%d5%b6%d5%ab-%d5%bf%d5%a5%d5%bd%d5%a1%d6%80%d5%aa%d5%a1%d5%b6-%d5%be%d5%a1%d5%b5%d6%80%d5%a5%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d5%a6%d5%ac%d5%9d-%d5%b0%d5%a1%d5%b5%d5%a1%d5%bd%d5%bf%d5%a1%d5%b6%d5%ab-%d5%bf%d5%a5%d5%bd%d5%a1%d6%80%d5%aa%d5%a1%d5%b6-%d5%be%d5%a1%d5%b5%d6%80%d5%a5%d6%80/",
+    "sku": "TOY-1027",
+    "short_description": "<p>Հայաստանի տեսարժան վայրերով պատկերային փազլ՝ ընտանեկան ժամանցի համար։</p>",
+    "description": "<p>Հայաստանի տեսարժան վայրերով պատկերային փազլ՝ ընտանեկան ժամանցի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3600",
+      "regular_price": "3600",
+      "sale_price": "3600",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 600&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 32,
+        "name": "Փազլներ և սեղանի խաղեր",
+        "slug": "%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փազլ՝ Հայաստանի տեսարժան վայրեր&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=290",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/290",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=290&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 289,
+    "name": "Փազլ՝ կենդանիներ, 100 կտոր",
+    "slug": "%d6%83%d5%a1%d5%a6%d5%ac%d5%9d-%d5%af%d5%a5%d5%b6%d5%a4%d5%a1%d5%b6%d5%ab%d5%b6%d5%a5%d6%80-100-%d5%af%d5%bf%d5%b8%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d5%a6%d5%ac%d5%9d-%d5%af%d5%a5%d5%b6%d5%a4%d5%a1%d5%b6%d5%ab%d5%b6%d5%a5%d6%80-100-%d5%af%d5%bf%d5%b8%d6%80/",
+    "sku": "TOY-1026",
+    "short_description": "<p>100 կտորից բաղկացած պատկերային փազլ՝ համբերությունն ու ուշադրությունը զարգացնելու համար։</p>",
+    "description": "<p>100 կտորից բաղկացած պատկերային փազլ՝ համբերությունն ու ուշադրությունը զարգացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "2800",
+      "regular_price": "2800",
+      "sale_price": "2800",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">2 800&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 32,
+        "name": "Փազլներ և սեղանի խաղեր",
+        "slug": "%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d5%a6%d5%ac%d5%b6%d5%a5%d6%80-%d6%87-%d5%bd%d5%a5%d5%b2%d5%a1%d5%b6%d5%ab-%d5%ad%d5%a1%d5%b2%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փազլ՝ կենդանիներ, 100 կտոր&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=289",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/289",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=289&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 288,
+    "name": "Երկրագնդի ուսուցողական գլոբուս",
+    "slug": "%d5%a5%d6%80%d5%af%d6%80%d5%a1%d5%a3%d5%b6%d5%a4%d5%ab-%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%a3%d5%ac%d5%b8%d5%a2%d5%b8%d6%82%d5%bd",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a5%d6%80%d5%af%d6%80%d5%a1%d5%a3%d5%b6%d5%a4%d5%ab-%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%a3%d5%ac%d5%b8%d5%a2%d5%b8%d6%82%d5%bd/",
+    "sku": "TOY-1025",
+    "short_description": "<p>Գլոբուս՝ աշխարհագրության առաջին գիտելիքներն ուսումնասիրելու համար։</p>",
+    "description": "<p>Գլոբուս՝ աշխարհագրության առաջին գիտելիքներն ուսումնասիրելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "8700",
+      "regular_price": "8700",
+      "sale_price": "8700",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">8 700&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 31,
+        "name": "Ուսուցողական խաղալիքներ",
+        "slug": "%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Երկրագնդի ուսուցողական գլոբուս&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=288",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/288",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=288&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 287,
+    "name": "Ժամացույց սովորելու խաղալիք",
+    "slug": "%d5%aa%d5%a1%d5%b4%d5%a1%d6%81%d5%b8%d6%82%d5%b5%d6%81-%d5%bd%d5%b8%d5%be%d5%b8%d6%80%d5%a5%d5%ac%d5%b8%d6%82-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%aa%d5%a1%d5%b4%d5%a1%d6%81%d5%b8%d6%82%d5%b5%d6%81-%d5%bd%d5%b8%d5%be%d5%b8%d6%80%d5%a5%d5%ac%d5%b8%d6%82-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84/",
+    "sku": "TOY-1024",
+    "short_description": "<p>Գունավոր ուսուցողական ժամացույց՝ ժամ հասկացությունը սովորելու համար։</p>",
+    "description": "<p>Գունավոր ուսուցողական ժամացույց՝ ժամ հասկացությունը սովորելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3300",
+      "regular_price": "3300",
+      "sale_price": "3300",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 300&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 31,
+        "name": "Ուսուցողական խաղալիքներ",
+        "slug": "%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Ժամացույց սովորելու խաղալիք&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=287",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/287",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=287&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 286,
+    "name": "Գույների և ձևերի դասավորիչ",
+    "slug": "%d5%a3%d5%b8%d6%82%d5%b5%d5%b6%d5%a5%d6%80%d5%ab-%d6%87-%d5%b1%d6%87%d5%a5%d6%80%d5%ab-%d5%a4%d5%a1%d5%bd%d5%a1%d5%be%d5%b8%d6%80%d5%ab%d5%b9",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a3%d5%b8%d6%82%d5%b5%d5%b6%d5%a5%d6%80%d5%ab-%d6%87-%d5%b1%d6%87%d5%a5%d6%80%d5%ab-%d5%a4%d5%a1%d5%bd%d5%a1%d5%be%d5%b8%d6%80%d5%ab%d5%b9/",
+    "sku": "TOY-1023",
+    "short_description": "<p>Տարբեր գույների և ձևերի տարրերով խաղալիք՝ ճանաչողությունը զարգացնելու համար։</p>",
+    "description": "<p>Տարբեր գույների և ձևերի տարրերով խաղալիք՝ ճանաչողությունը զարգացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "5100",
+      "regular_price": "5100",
+      "sale_price": "5100",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">5 100&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 31,
+        "name": "Ուսուցողական խաղալիքներ",
+        "slug": "%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Գույների և ձևերի դասավորիչ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=286",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/286",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=286&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 285,
+    "name": "Թվերի և հաշվարկի հավաքածու",
+    "slug": "%d5%a9%d5%be%d5%a5%d6%80%d5%ab-%d6%87-%d5%b0%d5%a1%d5%b7%d5%be%d5%a1%d6%80%d5%af%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a9%d5%be%d5%a5%d6%80%d5%ab-%d6%87-%d5%b0%d5%a1%d5%b7%d5%be%d5%a1%d6%80%d5%af%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1022",
+    "short_description": "<p>Թվերով և նշաններով հավաքածու՝ առաջին հաշվարկային հմտությունների համար։</p>",
+    "description": "<p>Թվերով և նշաններով հավաքածու՝ առաջին հաշվարկային հմտությունների համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3900",
+      "regular_price": "3900",
+      "sale_price": "3900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 31,
+        "name": "Ուսուցողական խաղալիքներ",
+        "slug": "%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Թվերի և հաշվարկի հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=285",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/285",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=285&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 284,
+    "name": "Այբուբենի ուսուցողական փազլ",
+    "slug": "%d5%a1%d5%b5%d5%a2%d5%b8%d6%82%d5%a2%d5%a5%d5%b6%d5%ab-%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d6%83%d5%a1%d5%a6%d5%ac",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a1%d5%b5%d5%a2%d5%b8%d6%82%d5%a2%d5%a5%d5%b6%d5%ab-%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d6%83%d5%a1%d5%a6%d5%ac/",
+    "sku": "TOY-1021",
+    "short_description": "<p>Տառերով փազլ՝ հայերեն այբուբենը խաղի միջոցով սովորելու համար։</p>",
+    "description": "<p>Տառերով փազլ՝ հայերեն այբուբենը խաղի միջոցով սովորելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "4200",
+      "regular_price": "4200",
+      "sale_price": "4200",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">4 200&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 31,
+        "name": "Ուսուցողական խաղալիքներ",
+        "slug": "%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%b8%d6%82%d5%bd%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Այբուբենի ուսուցողական փազլ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=284",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/284",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=284&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 283,
+    "name": "Տիկնիկի խոհանոցային հավաքածու",
+    "slug": "%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%ab-%d5%ad%d5%b8%d5%b0%d5%a1%d5%b6%d5%b8%d6%81%d5%a1%d5%b5%d5%ab%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%ab-%d5%ad%d5%b8%d5%b0%d5%a1%d5%b6%d5%b8%d6%81%d5%a1%d5%b5%d5%ab%d5%b6-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1020",
+    "short_description": "<p>Փոքրիկ խոհանոցային պարագաներ՝ երևակայական խաղերի համար։</p>",
+    "description": "<p>Փոքրիկ խոհանոցային պարագաներ՝ երևակայական խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "5700",
+      "regular_price": "5700",
+      "sale_price": "5700",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">5 700&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 318,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-300x225.jpg",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg 1000w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-400x400.jpg 400w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-800x800.jpg 800w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-280x280.jpg 280w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-768x768.jpg 768w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-600x600.jpg 600w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-100x100.jpg 100w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 30,
+        "name": "Տիկնիկներ և աքսեսուարներ",
+        "slug": "%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Տիկնիկի խոհանոցային հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=283",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/283",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=283&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 282,
+    "name": "Մանկական տիկնիկ՝ մանկասայլակով",
+    "slug": "%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%9d-%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%bd%d5%a1%d5%b5%d5%ac%d5%a1%d5%af%d5%b8%d5%be",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%af%d5%a1%d5%b6-%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%9d-%d5%b4%d5%a1%d5%b6%d5%af%d5%a1%d5%bd%d5%a1%d5%b5%d5%ac%d5%a1%d5%af%d5%b8%d5%be/",
+    "sku": "TOY-1019",
+    "short_description": "<p>Տիկնիկ և մանկասայլակ՝ խնամքի դերային խաղերի համար։</p>",
+    "description": "<p>Տիկնիկ և մանկասայլակ՝ խնամքի դերային խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "9900",
+      "regular_price": "9900",
+      "sale_price": "9900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">9 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 318,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-300x225.jpg",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg 1000w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-400x400.jpg 400w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-800x800.jpg 800w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-280x280.jpg 280w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-768x768.jpg 768w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-600x600.jpg 600w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-100x100.jpg 100w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 30,
+        "name": "Տիկնիկներ և աքսեսուարներ",
+        "slug": "%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Մանկական տիկնիկ՝ մանկասայլակով&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=282",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/282",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=282&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "name": "Տիկնիկի հագուստի հավաքածու",
+    "slug": "%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%ab-%d5%b0%d5%a1%d5%a3%d5%b8%d6%82%d5%bd%d5%bf%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%ab-%d5%b0%d5%a1%d5%a3%d5%b8%d6%82%d5%bd%d5%bf%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1018",
+    "short_description": "<p>Հագուստի հավաքածու՝ տիկնիկի կերպարը փոխելու համար։</p>",
+    "description": "<p>Հագուստի հավաքածու՝ տիկնիկի կերպարը փոխելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3500",
+      "regular_price": "3500",
+      "sale_price": "3500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 318,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-300x225.jpg",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg 1000w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-400x400.jpg 400w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-800x800.jpg 800w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-280x280.jpg 280w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-768x768.jpg 768w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-600x600.jpg 600w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-100x100.jpg 100w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 30,
+        "name": "Տիկնիկներ և աքսեսուարներ",
+        "slug": "%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Տիկնիկի հագուստի հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=281",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/281",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=281&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 280,
+    "name": "Տիկնիկի տուն",
+    "slug": "%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%ab-%d5%bf%d5%b8%d6%82%d5%b6",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%ab-%d5%bf%d5%b8%d6%82%d5%b6/",
+    "sku": "TOY-1017",
+    "short_description": "<p>Բազմամաս տիկնիկային տուն՝ կահույքի և խաղային պարագաների տեղադրման հնարավորությամբ։</p>",
+    "description": "<p>Բազմամաս տիկնիկային տուն՝ կահույքի և խաղային պարագաների տեղադրման հնարավորությամբ։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "18900",
+      "regular_price": "18900",
+      "sale_price": "18900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">18 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 318,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-300x225.jpg",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg 1000w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-400x400.jpg 400w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-800x800.jpg 800w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-280x280.jpg 280w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-768x768.jpg 768w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-600x600.jpg 600w, https://toysland.am/wp-content/uploads/2026/11/eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2-100x100.jpg 100w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "eng_pl_Large-Fashion-Set-Anlily-Collection-Dresses-Accessories-65-pcs-24503_2.jpg",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 30,
+        "name": "Տիկնիկներ և աքսեսուարներ",
+        "slug": "%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Տիկնիկի տուն&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=280",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/280",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=280&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 279,
+    "name": "Նորաձև տիկնիկ",
+    "slug": "%d5%b6%d5%b8%d6%80%d5%a1%d5%b1%d6%87-%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b6%d5%b8%d6%80%d5%a1%d5%b1%d6%87-%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af/",
+    "sku": "TOY-1016",
+    "short_description": "<p>Տիկնիկ՝ գեղեցիկ հագուստով և սանրվածքով՝ դերային խաղերի համար։</p>",
+    "description": "<p>Տիկնիկ՝ գեղեցիկ հագուստով և սանրվածքով՝ դերային խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "6800",
+      "regular_price": "6800",
+      "sale_price": "6800",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">6 800&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 30,
+        "name": "Տիկնիկներ և աքսեսուարներ",
+        "slug": "%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%bf%d5%ab%d5%af%d5%b6%d5%ab%d5%af%d5%b6%d5%a5%d6%80-%d6%87-%d5%a1%d6%84%d5%bd%d5%a5%d5%bd%d5%b8%d6%82%d5%a1%d6%80%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Նորաձև տիկնիկ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=279",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/279",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=279&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 278,
+    "name": "Խաղալիք գնացք՝ ռելսերով",
+    "slug": "%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%a3%d5%b6%d5%a1%d6%81%d6%84%d5%9d-%d5%bc%d5%a5%d5%ac%d5%bd%d5%a5%d6%80%d5%b8%d5%be",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%a3%d5%b6%d5%a1%d6%81%d6%84%d5%9d-%d5%bc%d5%a5%d5%ac%d5%bd%d5%a5%d6%80%d5%b8%d5%be/",
+    "sku": "TOY-1015",
+    "short_description": "<p>Գնացքի հավաքածու՝ ռելսերով և վագոններով։</p>",
+    "description": "<p>Գնացքի հավաքածու՝ ռելսերով և վագոններով։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "11200",
+      "regular_price": "11200",
+      "sale_price": "11200",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">11 200&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 317,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-300x225.webp",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp 840w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-400x400.webp 400w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-800x800.webp 800w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-280x280.webp 280w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-768x768.webp 768w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-600x600.webp 600w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-100x100.webp 100w",
+        "sizes": "(max-width: 840px) 100vw, 840px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "102017-6-840&#215;840-1.webp",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 29,
+        "name": "Մեքենաներ և տրանսպորտ",
+        "slug": "%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Խաղալիք գնացք՝ ռելսերով&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=278",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/278",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=278&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 277,
+    "name": "Խաղալիք ինքնաթափ բեռնատար",
+    "slug": "%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%ab%d5%b6%d6%84%d5%b6%d5%a1%d5%a9%d5%a1%d6%83-%d5%a2%d5%a5%d5%bc%d5%b6%d5%a1%d5%bf%d5%a1%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%ab%d5%b6%d6%84%d5%b6%d5%a1%d5%a9%d5%a1%d6%83-%d5%a2%d5%a5%d5%bc%d5%b6%d5%a1%d5%bf%d5%a1%d6%80/",
+    "sku": "TOY-1014",
+    "short_description": "<p>Ինքնաթափ թափքով բեռնատար՝ շինարարական խաղերի համար։</p>",
+    "description": "<p>Ինքնաթափ թափքով բեռնատար՝ շինարարական խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "4600",
+      "regular_price": "4600",
+      "sale_price": "4600",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">4 600&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 317,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-300x225.webp",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp 840w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-400x400.webp 400w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-800x800.webp 800w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-280x280.webp 280w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-768x768.webp 768w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-600x600.webp 600w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-100x100.webp 100w",
+        "sizes": "(max-width: 840px) 100vw, 840px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "102017-6-840&#215;840-1.webp",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 29,
+        "name": "Մեքենաներ և տրանսպորտ",
+        "slug": "%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Խաղալիք ինքնաթափ բեռնատար&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=277",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/277",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=277&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 276,
+    "name": "Խաղալիք հրշեջ մեքենա",
+    "slug": "%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%b0%d6%80%d5%b7%d5%a5%d5%bb-%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d5%b0%d6%80%d5%b7%d5%a5%d5%bb-%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1/",
+    "sku": "TOY-1013",
+    "short_description": "<p>Հրշեջ մեքենայի մոդել՝ փրկարարական հետաքրքիր խաղերի համար։</p>",
+    "description": "<p>Հրշեջ մեքենայի մոդել՝ փրկարարական հետաքրքիր խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "3900",
+      "regular_price": "3900",
+      "sale_price": "3900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">3 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 317,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-300x225.webp",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp 840w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-400x400.webp 400w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-800x800.webp 800w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-280x280.webp 280w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-768x768.webp 768w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-600x600.webp 600w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-100x100.webp 100w",
+        "sizes": "(max-width: 840px) 100vw, 840px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "102017-6-840&#215;840-1.webp",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 29,
+        "name": "Մեքենաներ և տրանսպորտ",
+        "slug": "%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Խաղալիք հրշեջ մեքենա&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=276",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/276",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=276&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 275,
+    "name": "Հեռակառավարվող մեքենա",
+    "slug": "%d5%b0%d5%a5%d5%bc%d5%a1%d5%af%d5%a1%d5%bc%d5%a1%d5%be%d5%a1%d6%80%d5%be%d5%b8%d5%b2-%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b0%d5%a5%d5%bc%d5%a1%d5%af%d5%a1%d5%bc%d5%a1%d5%be%d5%a1%d6%80%d5%be%d5%b8%d5%b2-%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1/",
+    "sku": "TOY-1012",
+    "short_description": "<p>Հեռակառավարվող մեքենա՝ տան ներսում և հարթ մակերեսների վրա խաղալու համար։</p>",
+    "description": "<p>Հեռակառավարվող մեքենա՝ տան ներսում և հարթ մակերեսների վրա խաղալու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "14500",
+      "regular_price": "14500",
+      "sale_price": "14500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">14 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 317,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-300x225.webp",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp 840w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-400x400.webp 400w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-800x800.webp 800w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-280x280.webp 280w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-768x768.webp 768w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-600x600.webp 600w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-100x100.webp 100w",
+        "sizes": "(max-width: 840px) 100vw, 840px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "102017-6-840&#215;840-1.webp",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 29,
+        "name": "Մեքենաներ և տրանսպորտ",
+        "slug": "%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Հեռակառավարվող մեքենա&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=275",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/275",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=275&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 274,
+    "name": "Մետաղական սպորտային մեքենա",
+    "slug": "%d5%b4%d5%a5%d5%bf%d5%a1%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%bd%d5%ba%d5%b8%d6%80%d5%bf%d5%a1%d5%b5%d5%ab%d5%b6-%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b4%d5%a5%d5%bf%d5%a1%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%bd%d5%ba%d5%b8%d6%80%d5%bf%d5%a1%d5%b5%d5%ab%d5%b6-%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1/",
+    "sku": "TOY-1011",
+    "short_description": "<p>Մետաղական թափքով փոքր մեքենա՝ հավաքածուի և խաղերի համար։</p>",
+    "description": "<p>Մետաղական թափքով փոքր մեքենա՝ հավաքածուի և խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "2200",
+      "regular_price": "2200",
+      "sale_price": "2200",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">2 200&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 317,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-300x225.webp",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1.webp 840w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-400x400.webp 400w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-800x800.webp 800w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-280x280.webp 280w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-768x768.webp 768w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-600x600.webp 600w, https://toysland.am/wp-content/uploads/2026/11/102017-6-840x840-1-100x100.webp 100w",
+        "sizes": "(max-width: 840px) 100vw, 840px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "102017-6-840&#215;840-1.webp",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 29,
+        "name": "Մեքենաներ և տրանսպորտ",
+        "slug": "%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf",
+        "link": "https://toysland.am/product-category/%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80-%d6%87-%d5%bf%d6%80%d5%a1%d5%b6%d5%bd%d5%ba%d5%b8%d6%80%d5%bf/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Մետաղական սպորտային մեքենա&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=274",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/274",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=274&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 273,
+    "name": "Փափուկ դինոզավր",
+    "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%a4%d5%ab%d5%b6%d5%b8%d5%a6%d5%a1%d5%be%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%a4%d5%ab%d5%b6%d5%b8%d5%a6%d5%a1%d5%be%d6%80/",
+    "sku": "TOY-1010",
+    "short_description": "<p>Գունավոր դինոզավրի խաղալիք՝ արկածային խաղերի սիրահարների համար։</p>",
+    "description": "<p>Գունավոր դինոզավրի խաղալիք՝ արկածային խաղերի սիրահարների համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "7500",
+      "regular_price": "7500",
+      "sale_price": "7500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">7 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 316,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-300x225.png",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png 1024w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-400x400.png 400w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-800x800.png 800w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-280x280.png 280w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-768x768.png 768w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-600x600.png 600w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-100x100.png 100w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "stuffed-animals.png",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 28,
+        "name": "Փափուկ խաղալիքներ",
+        "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փափուկ դինոզավր&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=273",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/273",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=273&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 272,
+    "name": "Փափուկ կատու",
+    "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%af%d5%a1%d5%bf%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%af%d5%a1%d5%bf%d5%b8%d6%82/",
+    "sku": "TOY-1009",
+    "short_description": "<p>Փափուկ կատվի խաղալիք՝ ընկերակցելու և խաղալու համար։</p>",
+    "description": "<p>Փափուկ կատվի խաղալիք՝ ընկերակցելու և խաղալու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "5200",
+      "regular_price": "5200",
+      "sale_price": "5200",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">5 200&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 316,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-300x225.png",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png 1024w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-400x400.png 400w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-800x800.png 800w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-280x280.png 280w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-768x768.png 768w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-600x600.png 600w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-100x100.png 100w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "stuffed-animals.png",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 28,
+        "name": "Փափուկ խաղալիքներ",
+        "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փափուկ կատու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=272",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/272",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=272&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "name": "Խաղալիք փիղ",
+    "slug": "%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d6%83%d5%ab%d5%b2",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84-%d6%83%d5%ab%d5%b2/",
+    "sku": "TOY-1008",
+    "short_description": "<p>Փափուկ փիղ՝ հարմար փոքրիկների խաղերի և սենյակի ձևավորման համար։</p>",
+    "description": "<p>Փափուկ փիղ՝ հարմար փոքրիկների խաղերի և սենյակի ձևավորման համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "6900",
+      "regular_price": "6900",
+      "sale_price": "6900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">6 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 316,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-300x225.png",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png 1024w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-400x400.png 400w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-800x800.png 800w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-280x280.png 280w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-768x768.png 768w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-600x600.png 600w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-100x100.png 100w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "stuffed-animals.png",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 28,
+        "name": "Փափուկ խաղալիքներ",
+        "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Խաղալիք փիղ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=271",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/271",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=271&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 270,
+    "name": "Փափուկ նապաստակ",
+    "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%b6%d5%a1%d5%ba%d5%a1%d5%bd%d5%bf%d5%a1%d5%af",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%b6%d5%a1%d5%ba%d5%a1%d5%bd%d5%bf%d5%a1%d5%af/",
+    "sku": "TOY-1007",
+    "short_description": "<p>Նուրբ նյութից պատրաստված նապաստակ՝ գեղեցիկ նվերի տարբերակ։</p>",
+    "description": "<p>Նուրբ նյութից պատրաստված նապաստակ՝ գեղեցիկ նվերի տարբերակ։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "4800",
+      "regular_price": "4800",
+      "sale_price": "4800",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">4 800&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 316,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-300x225.png",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png 1024w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-400x400.png 400w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-800x800.png 800w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-280x280.png 280w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-768x768.png 768w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-600x600.png 600w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-100x100.png 100w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "stuffed-animals.png",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 28,
+        "name": "Փափուկ խաղալիքներ",
+        "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փափուկ նապաստակ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=270",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/270",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=270&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 269,
+    "name": "Փափուկ արջուկ",
+    "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%a1%d6%80%d5%bb%d5%b8%d6%82%d5%af",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%a1%d6%80%d5%bb%d5%b8%d6%82%d5%af/",
+    "sku": "TOY-1006",
+    "short_description": "<p>Փափուկ և հաճելի խաղալիք՝ գրկելու և ամենօրյա խաղերի համար։</p>",
+    "description": "<p>Փափուկ և հաճելի խաղալիք՝ գրկելու և ամենօրյա խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "5500",
+      "regular_price": "5500",
+      "sale_price": "5500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">5 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 316,
+        "src": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-300x225.png",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/11/stuffed-animals.png 1024w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-400x400.png 400w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-800x800.png 800w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-280x280.png 280w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-768x768.png 768w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-600x600.png 600w, https://toysland.am/wp-content/uploads/2026/11/stuffed-animals-100x100.png 100w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "stuffed-animals.png",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 28,
+        "name": "Փափուկ խաղալիքներ",
+        "slug": "%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d6%83%d5%a1%d6%83%d5%b8%d6%82%d5%af-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փափուկ արջուկ&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=269",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/269",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=269&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 268,
+    "name": "3D փազլ-կոնստրուկտոր",
+    "slug": "3d-%d6%83%d5%a1%d5%a6%d5%ac-%d5%af%d5%b8%d5%b6%d5%bd%d5%bf%d6%80%d5%b8%d6%82%d5%af%d5%bf%d5%b8%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/3d-%d6%83%d5%a1%d5%a6%d5%ac-%d5%af%d5%b8%d5%b6%d5%bd%d5%bf%d6%80%d5%b8%d6%82%d5%af%d5%bf%d5%b8%d6%80/",
+    "sku": "TOY-1005",
+    "short_description": "<p>Եռաչափ հավաքվող մոդել՝ ուշադրությունն ու տրամաբանական մտածողությունը զարգացնելու համար։</p>",
+    "description": "<p>Եռաչափ հավաքվող մոդել՝ ուշադրությունն ու տրամաբանական մտածողությունը զարգացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "9800",
+      "regular_price": "9800",
+      "sale_price": "9800",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">9 800&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 27,
+        "name": "Կառուցողական խաղալիքներ",
+        "slug": "%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;3D փազլ-կոնստրուկտոր&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=268",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/268",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=268&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 267,
+    "name": "Շինարարական մեքենաների հավաքածու",
+    "slug": "%d5%b7%d5%ab%d5%b6%d5%a1%d6%80%d5%a1%d6%80%d5%a1%d5%af%d5%a1%d5%b6-%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b7%d5%ab%d5%b6%d5%a1%d6%80%d5%a1%d6%80%d5%a1%d5%af%d5%a1%d5%b6-%d5%b4%d5%a5%d6%84%d5%a5%d5%b6%d5%a1%d5%b6%d5%a5%d6%80%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1004",
+    "short_description": "<p>Մանրամասներով շինարարական մեքենաներ՝ փոքրիկ շինարարների խաղերի համար։</p>",
+    "description": "<p>Մանրամասներով շինարարական մեքենաներ՝ փոքրիկ շինարարների խաղերի համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "7900",
+      "regular_price": "7900",
+      "sale_price": "7900",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">7 900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 27,
+        "name": "Կառուցողական խաղալիքներ",
+        "slug": "%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Շինարարական մեքենաների հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=267",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/267",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=267&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 266,
+    "name": "Մագնիսական կոնստրուկտոր",
+    "slug": "%d5%b4%d5%a1%d5%a3%d5%b6%d5%ab%d5%bd%d5%a1%d5%af%d5%a1%d5%b6-%d5%af%d5%b8%d5%b6%d5%bd%d5%bf%d6%80%d5%b8%d6%82%d5%af%d5%bf%d5%b8%d6%80",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%b4%d5%a1%d5%a3%d5%b6%d5%ab%d5%bd%d5%a1%d5%af%d5%a1%d5%b6-%d5%af%d5%b8%d5%b6%d5%bd%d5%bf%d6%80%d5%b8%d6%82%d5%af%d5%bf%d5%b8%d6%80/",
+    "sku": "TOY-1003",
+    "short_description": "<p>Մագնիսական տարրերով հավաքածու՝ պարզ և հետաքրքիր կառուցումներ ստանալու համար։</p>",
+    "description": "<p>Մագնիսական տարրերով հավաքածու՝ պարզ և հետաքրքիր կառուցումներ ստանալու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "12500",
+      "regular_price": "12500",
+      "sale_price": "12500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">12 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 27,
+        "name": "Կառուցողական խաղալիքներ",
+        "slug": "%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Մագնիսական կոնստրուկտոր&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=266",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/266",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=266&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 265,
+    "name": "Փայտե խորանարդիկների հավաքածու",
+    "slug": "%d6%83%d5%a1%d5%b5%d5%bf%d5%a5-%d5%ad%d5%b8%d6%80%d5%a1%d5%b6%d5%a1%d6%80%d5%a4%d5%ab%d5%af%d5%b6%d5%a5%d6%80%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d6%83%d5%a1%d5%b5%d5%bf%d5%a5-%d5%ad%d5%b8%d6%80%d5%a1%d5%b6%d5%a1%d6%80%d5%a4%d5%ab%d5%af%d5%b6%d5%a5%d6%80%d5%ab-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1002",
+    "short_description": "<p>Բնական փայտից պատրաստված խորանարդիկներ՝ տարբեր կառուցվածքներ ստեղծելու համար։</p>",
+    "description": "<p>Բնական փայտից պատրաստված խորանարդիկներ՝ տարբեր կառուցվածքներ ստեղծելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "6200",
+      "regular_price": "6200",
+      "sale_price": "6200",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">6 200&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 27,
+        "name": "Կառուցողական խաղալիքներ",
+        "slug": "%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Փայտե խորանարդիկների հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=265",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/265",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=265&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 264,
+    "name": "Գունավոր լեգո հավաքածու",
+    "slug": "%d5%a3%d5%b8%d6%82%d5%b6%d5%a1%d5%be%d5%b8%d6%80-%d5%ac%d5%a5%d5%a3%d5%b8-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/%d5%a3%d5%b8%d6%82%d5%b6%d5%a1%d5%be%d5%b8%d6%80-%d5%ac%d5%a5%d5%a3%d5%b8-%d5%b0%d5%a1%d5%be%d5%a1%d6%84%d5%a1%d5%ae%d5%b8%d6%82/",
+    "sku": "TOY-1001",
+    "short_description": "<p>Գունավոր մանրամասներով կառուցողական հավաքածու՝ երևակայությունն ու ստեղծարարությունը զարգացնելու համար։</p>",
+    "description": "<p>Գունավոր մանրամասներով կառուցողական հավաքածու՝ երևակայությունն ու ստեղծարարությունը զարգացնելու համար։</p>",
+    "on_sale": false,
+    "prices": {
+      "price": "8500",
+      "regular_price": "8500",
+      "sale_price": "8500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\">8 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [],
+    "categories": [
+      {
+        "id": 27,
+        "name": "Կառուցողական խաղալիքներ",
+        "slug": "%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80",
+        "link": "https://toysland.am/product-category/%d5%af%d5%a1%d5%bc%d5%b8%d6%82%d6%81%d5%b8%d5%b2%d5%a1%d5%af%d5%a1%d5%b6-%d5%ad%d5%a1%d5%b2%d5%a1%d5%ac%d5%ab%d6%84%d5%b6%d5%a5%d6%80/"
+      }
+    ],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "20 in stock",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Գունավոր լեգո հավաքածու&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=264",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 20,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/264",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=264&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 217,
+    "name": "Toy 1",
+    "slug": "toy-1",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://toysland.am/product/toy-1/",
+    "sku": "",
+    "short_description": "",
+    "description": "<p>Description</p>",
+    "on_sale": true,
+    "prices": {
+      "price": "4500",
+      "regular_price": "5000",
+      "sale_price": "4500",
+      "price_range": null,
+      "currency_code": "AMD",
+      "currency_symbol": "AMD",
+      "currency_minor_unit": 0,
+      "currency_decimal_separator": ",",
+      "currency_thousand_separator": " ",
+      "currency_prefix": "",
+      "currency_suffix": " AMD"
+    },
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\">5 000&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span></del> <span class=\"screen-reader-text\">Original price was: 5 000&nbsp;AMD.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\">4 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">AMD</span></span></ins><span class=\"screen-reader-text\">Current price is: 4 500&nbsp;AMD.</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 218,
+        "src": "https://toysland.am/wp-content/uploads/2026/08/Early_Years_toys.png",
+        "thumbnail": "https://toysland.am/wp-content/uploads/2026/08/Early_Years_toys-300x225.png",
+        "srcset": "https://toysland.am/wp-content/uploads/2026/08/Early_Years_toys.png 630w, https://toysland.am/wp-content/uploads/2026/08/Early_Years_toys-600x443.png 600w, https://toysland.am/wp-content/uploads/2026/08/Early_Years_toys-542x400.png 542w",
+        "sizes": "(max-width: 630px) 100vw, 630px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+        "name": "Early_Years_toys",
+        "alt": ""
+      }
+    ],
+    "categories": [],
+    "tags": [],
+    "brands": [],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "Բացակայում է",
+    "formatted_dimensions": "Բացակայում է",
+    "add_to_cart": {
+      "text": "Ավելացնել",
+      "description": "Add to cart: &ldquo;Toy 1&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=217",
+      "single_text": "Ավելացնել",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products/217",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://toysland.am/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://toysland.am/wp-json/wc/store/v1/products?related=217&per_page=10"
+        }
+      ]
+    }
+  }
+]

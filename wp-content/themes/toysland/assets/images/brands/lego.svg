@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80" width="160" height="80">
+  <rect width="160" height="80" rx="14" fill="#E3000B"/>
+  <rect x="4" y="4" width="152" height="72" rx="10" fill="none" stroke="#FFD700" stroke-width="4"/>
+  <g transform="skewX(-10) translate(22, 60)">
+    <text font-family="Arial Black, Impact, sans-serif" font-size="52" font-weight="900" fill="#000" x="4" y="4">LEGO</text>
+    <text font-family="Arial Black, Impact, sans-serif" font-size="52" font-weight="900" fill="#FFD700" stroke="#000" stroke-width="8" stroke-linejoin="round" x="0" y="0">LEGO</text>
+    <text font-family="Arial Black, Impact, sans-serif" font-size="52" font-weight="900" fill="#FFF" x="0" y="0">LEGO</text>
+  </g>
+</svg>

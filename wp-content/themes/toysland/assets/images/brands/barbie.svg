@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <defs>
+    <filter id="pinkGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#70003A" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <g filter="url(#pinkGlow)">
+    <text x="15" y="58" font-family="'Brush Script MT', 'Snell Roundhand', 'Pacifico', cursive, sans-serif" font-size="64" font-weight="900" fill="#FFFFFF" font-style="italic">Barbie</text>
+  </g>
+</svg>

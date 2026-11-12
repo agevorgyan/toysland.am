@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <defs>
+    <linearGradient id="flameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E3000B"/>
+      <stop offset="50%" stop-color="#FF5C00"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+  </defs>
+  <path d="M10,48 C35,18 70,12 120,15 C175,18 205,32 230,22 C225,48 185,68 130,68 C70,68 25,62 10,48 Z" fill="url(#flameGrad)" stroke="#FFFFFF" stroke-width="2.5"/>
+  <g transform="skewX(-14) translate(32, 52)">
+    <text font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#000" x="2" y="2" letter-spacing="1">HOT WHEELS</text>
+    <text font-family="Impact, Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFF" x="0" y="0" letter-spacing="1">HOT WHEELS</text>
+  </g>
+</svg>

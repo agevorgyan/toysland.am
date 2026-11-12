@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+    <circle cx="40" cy="40" r="38" fill="#FEF9C3"/>
+    <!-- Sun & Kite -->
+    <polygon points="40,18 54,34 40,54 26,34" fill="#EF4444"/>
+    <polygon points="40,18 54,34 40,34" fill="#F97316"/>
+    <polygon points="40,34 54,34 40,54" fill="#FBBF24"/>
+    <polygon points="26,34 40,34 40,54" fill="#3B82F6"/>
+    <path d="M40 54 Q36 62 44 68" stroke="#64748B" stroke-width="2" fill="none"/>
+  </svg>
