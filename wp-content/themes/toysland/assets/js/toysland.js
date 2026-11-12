@@ -21,6 +21,10 @@
       this.initMobileNav();
       this.initInfiniteScroll();
       this.initProductTabs();
+      this.initMegaMenu();
+      this.initCartPage();
+      this.initCheckoutPage();
+      this.initAuthAndAccount();
       this.updateWishlistCount();
     },
 
@@ -527,6 +531,239 @@
 
         $('.product-tab-pane').removeClass('is-active');
         $('#tab-' + tabId).addClass('is-active');
+      });
+    },
+
+    /* ==========================================================================
+       10. Desktop Mega Menu Interactions
+       ========================================================================== */
+    initMegaMenu: function() {
+      const $menuItem = $('#navCategoriesItem');
+      const $btn = $('#categoriesMenuBtn');
+      if (!$menuItem.length || !$btn.length) return;
+
+      $btn.on('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        const isOpen = $menuItem.hasClass('is-open');
+        $menuItem.toggleClass('is-open', !isOpen);
+        $btn.attr('aria-expanded', !isOpen);
+      });
+
+      // Close mega menu on outside click or Esc key
+      $(document).on('click', function(e) {
+        if (!$(e.target).closest('#navCategoriesItem').length) {
+          $menuItem.removeClass('is-open');
+          $btn.attr('aria-expanded', 'false');
+        }
+      });
+
+      $(document).on('keydown', function(e) {
+        if (e.key === 'Escape') {
+          $menuItem.removeClass('is-open');
+          $btn.attr('aria-expanded', 'false');
+        }
+      });
+    },
+
+    /* ==========================================================================
+       11. Cart Page Interactive Stepper & AJAX Sync
+       ========================================================================== */
+    initCartPage: function() {
+      const self = this;
+      const $cartPage = $('.toysland-cart-page');
+      if (!$cartPage.length) return;
+
+      // Coupon toggle
+      $(document).on('click', '.js-coupon-toggle', function(e) {
+        e.preventDefault();
+        $(this).toggleClass('is-active');
+        $('.js-coupon-panel').toggleClass('is-open');
+      });
+
+      // Quantity Plus / Minus
+      $(document).on('click', '.js-cart-plus, .js-cart-minus', function(e) {
+        e.preventDefault();
+        const $btn = $(this);
+        const key = $btn.data('key');
+        const isPlus = $btn.hasClass('js-cart-plus');
+        const $row = $btn.closest('.js-cart-item-row');
+        const $input = $row.find('.js-cart-qty-input');
+        let currentQty = parseInt($input.val(), 10) || 1;
+        let newQty = isPlus ? currentQty + 1 : currentQty - 1;
+
+        if (newQty < 1) return;
+
+        $input.val(newQty);
+        $row.css('opacity', '0.6');
+
+        $.ajax({
+          url: toyslandData.ajaxUrl,
+          type: 'POST',
+          data: {
+            action: 'toysland_update_cart_qty',
+            cart_item_key: key,
+            quantity: newQty
+          },
+          success: function(res) {
+            $row.css('opacity', '1');
+            if (res.success) {
+              const data = res.data;
+              if (data.line_subtotal) {
+                $row.find('.js-item-subtotal').html(data.line_subtotal);
+              }
+              self.updateCartPageUI(data);
+              self.refreshCartUI(data);
+            }
+          },
+          error: function() {
+            $row.css('opacity', '1');
+          }
+        });
+      });
+
+      // Cart Item Remove
+      $(document).on('click', '.js-cart-remove-item', function(e) {
+        e.preventDefault();
+        const $btn = $(this);
+        const key = $btn.data('key');
+        const $row = $btn.closest('.js-cart-item-row');
+
+        $row.css('opacity', '0.4');
+
+        $.ajax({
+          url: toyslandData.ajaxUrl,
+          type: 'POST',
+          data: {
+            action: 'toysland_update_cart_qty',
+            cart_item_key: key,
+            quantity: 0
+          },
+          success: function(res) {
+            if (res.success) {
+              const data = res.data;
+              $row.slideUp(250, function() {
+                $(this).remove();
+                if (data.is_empty || $('.js-cart-item-row').length === 0) {
+                  window.location.reload();
+                }
+              });
+              self.updateCartPageUI(data);
+              self.refreshCartUI(data);
+            } else {
+              $row.css('opacity', '1');
+            }
+          },
+          error: function() {
+            $row.css('opacity', '1');
+          }
+        });
+      });
+    },
+
+    updateCartPageUI: function(data) {
+      // Update item count badges
+      $('.js-cart-badge-count').text(data.cart_count + ' ապրանք');
+      $('.js-summary-badge').text(data.cart_count + ' ապրանք');
+
+      // Update Order Summary Subtotal & Total
+      if (data.cart_subtotal) {
+        $('.js-summary-subtotal').html(data.cart_subtotal);
+      }
+      if (data.cart_total) {
+        $('.js-summary-total').html(data.cart_total);
+      }
+
+      // Update Shipping
+      if (data.is_free_shipping) {
+        $('.js-summary-shipping').html('<span class="shipping-free-pill">Անվճար</span>');
+      } else {
+        $('.js-summary-shipping').html('<span>' + data.shipping_text + '</span>');
+      }
+
+      // Update Free Shipping Progress Banner
+      const $banner = $('.js-shipping-banner');
+      if ($banner.length) {
+        if (data.is_free_shipping) {
+          $banner.addClass('is-free-unlocked');
+          $banner.find('.js-shipping-icon').text('🎉');
+          $banner.find('.js-shipping-msg').html('<strong>Շնորհավորո՜ւմ ենք:</strong> Դուք ստացել եք <strong>ԱՆՎՃԱՐ ԱՌԱՔՈՒՄ</strong> Երևանում:');
+          $banner.find('.js-shipping-percent').text('100%');
+          $banner.find('.js-shipping-fill').css('width', '100%');
+        } else {
+          $banner.removeClass('is-free-unlocked');
+          $banner.find('.js-shipping-icon').text('🚚');
+          $banner.find('.js-shipping-msg').html('Ավելացրեք ևս <strong class="js-shipping-remain">' + data.free_shipping_remaining + '</strong>-ի ապրանք՝ <strong>ԱՆՎՃԱՐ ԱՌԱՔՄԱՆ</strong> համար (Երևանում 15 000 ֏-ից):');
+          $banner.find('.js-shipping-percent').text(data.free_shipping_percent + '%');
+          $banner.find('.js-shipping-fill').css('width', data.free_shipping_percent + '%');
+        }
+      }
+    },
+
+    /* ==========================================================================
+       12. Checkout Page Enhancements
+       ========================================================================== */
+    initCheckoutPage: function() {
+      const $checkoutPage = $('.toysland-checkout-page');
+      if (!$checkoutPage.length) return;
+
+      // Phone Input Auto-Formatting for Armenia
+      $(document).on('input', '#billing_phone', function() {
+        let val = $(this).val().replace(/[^\d+]/g, '');
+        if (val.startsWith('0') && val.length > 1) {
+          val = '+374 ' + val.substring(1);
+        } else if (val.startsWith('374') && !val.startsWith('+374')) {
+          val = '+' + val;
+        } else if (!val.startsWith('+374') && val.length > 0 && !val.startsWith('+')) {
+          val = '+374 ' + val;
+        }
+        $(this).val(val);
+      });
+
+      // Payment Method Click Highlight
+      $(document).on('change', 'input[name="payment_method"]', function() {
+        $('.wc_payment_method').removeClass('is-chosen');
+        $(this).closest('.wc_payment_method').addClass('is-chosen');
+      });
+    },
+
+    /* ==========================================================================
+       13. Authentication & My Account Tabs & Interactions
+       ========================================================================== */
+    initAuthAndAccount: function() {
+      // Tab switching on Login/Register
+      $(document).on('click', '.js-auth-tab', function(e) {
+        e.preventDefault();
+        const targetId = $(this).data('target');
+        
+        $('.js-auth-tab').removeClass('is-active');
+        $(this).addClass('is-active');
+
+        $('.js-auth-panel').removeClass('is-active');
+        $(targetId).addClass('is-active');
+
+        // Focus first input
+        $(targetId).find('input:visible:first').focus();
+      });
+
+      // Password Visibility Toggle
+      $(document).on('click', '.js-toggle-pwd', function(e) {
+        e.preventDefault();
+        const $btn = $(this);
+        const $wrap = $btn.closest('.auth-input-wrap');
+        const $input = $wrap.find('.js-password-input');
+        const $openEye = $btn.find('.pwd-eye-open');
+        const $closedEye = $btn.find('.pwd-eye-closed');
+
+        if ($input.attr('type') === 'password') {
+          $input.attr('type', 'text');
+          $openEye.hide();
+          $closedEye.show();
+        } else {
+          $input.attr('type', 'password');
+          $openEye.show();
+          $closedEye.hide();
+        }
       });
     }
   };

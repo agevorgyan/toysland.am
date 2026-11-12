@@ -63,7 +63,7 @@ $logo_url = get_template_directory_uri() . '/assets/images/logo.png';
                 <span class="action-icon-wrap">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
                 </span>
-                <span class="action-label">Մուտք</span>
+                <span class="action-label"><?php echo is_user_logged_in() ? 'Իմ հաշիվը' : 'Մուտք'; ?></span>
             </a>
 
             <!-- Wishlist -->

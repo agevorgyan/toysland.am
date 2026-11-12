@@ -60,15 +60,34 @@ function toysland_update_cart_qty_callback() {
 
     WC()->cart->calculate_totals();
 
+    $cart_item = WC()->cart->get_cart_item($cart_item_key);
+    $line_subtotal = '';
+    if ($cart_item && !empty($cart_item['data'])) {
+        $line_subtotal = WC()->cart->get_product_subtotal($cart_item['data'], $cart_item['quantity']);
+    }
+
+    $subtotal_raw = floatval(WC()->cart->get_subtotal());
+    $free_shipping_threshold = 15000;
+    $remaining = max(0, $free_shipping_threshold - $subtotal_raw);
+    $percent = min(100, round(($subtotal_raw / $free_shipping_threshold) * 100));
+    $is_free = ($remaining <= 0);
+
     ob_start();
     toysland_render_mini_cart_items();
     $drawer_html = ob_get_clean();
 
     wp_send_json_success([
-        'cart_count'     => WC()->cart->get_cart_contents_count(),
-        'cart_subtotal'  => WC()->cart->get_cart_subtotal(),
-        'cart_total_raw' => WC()->cart->get_subtotal(),
-        'drawer_html'    => $drawer_html,
+        'cart_count'              => WC()->cart->get_cart_contents_count(),
+        'cart_subtotal'           => WC()->cart->get_cart_subtotal(),
+        'cart_total'              => WC()->cart->get_total(),
+        'cart_total_raw'          => $subtotal_raw,
+        'line_subtotal'           => $line_subtotal,
+        'is_free_shipping'        => $is_free,
+        'free_shipping_percent'   => $percent,
+        'free_shipping_remaining' => toysland_price($remaining),
+        'shipping_text'           => $is_free ? 'Անվճար' : toysland_price(1000),
+        'is_empty'                => WC()->cart->is_empty(),
+        'drawer_html'             => $drawer_html,
     ]);
 }
 

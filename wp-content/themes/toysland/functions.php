@@ -105,6 +105,7 @@ require_once TOYSLAND_DIR . '/inc/ajax-search.php';
 require_once TOYSLAND_DIR . '/inc/ajax-cart.php';
 require_once TOYSLAND_DIR . '/inc/wishlist.php';
 require_once TOYSLAND_DIR . '/inc/checkout-customizer.php';
+require_once TOYSLAND_DIR . '/inc/myaccount-customizer.php';
 require_once TOYSLAND_DIR . '/inc/seo-schema.php';
 
 /**

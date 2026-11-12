@@ -9,6 +9,14 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
+$post_slug = get_post_field('post_name', get_post());
+$legal_slugs = ['delivery', 'returns', 'privacy-policy', 'terms'];
+
+if (in_array($post_slug, $legal_slugs, true)) {
+    include locate_template('page-legal.php');
+    return;
+}
+
 get_header();
 ?>
 
