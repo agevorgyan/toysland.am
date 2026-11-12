@@ -11,6 +11,10 @@ if (!defined('ABSPATH')) {
 
 global $product;
 
+if (empty($product) || !is_a($product, 'WC_Product')) {
+    $product = function_exists('wc_get_product') ? wc_get_product(get_the_ID()) : null;
+}
+
 if (empty($product) || !$product->is_visible()) {
     return;
 }

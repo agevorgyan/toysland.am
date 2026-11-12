@@ -91,6 +91,10 @@ if ( ! defined( 'WP_DEBUG' ) ) {
 	define( 'WP_DEBUG', false );
 }
 
+/** Performance optimizations for local development */
+define( 'DISABLE_WP_CRON', true );
+define( 'WP_MEMORY_LIMIT', '256M' );
+
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */

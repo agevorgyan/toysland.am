@@ -19,6 +19,8 @@
       this.initWishlist();
       this.initAgeFilter();
       this.initMobileNav();
+      this.initInfiniteScroll();
+      this.initProductTabs();
       this.updateWishlistCount();
     },
 
@@ -377,6 +379,154 @@
         setTimeout(function() {
           $('.search-input').focus();
         }, 350);
+      });
+    },
+
+    /* ==========================================================================
+       8. Catalog Infinite Scroll
+       ========================================================================== */
+    initInfiniteScroll: function() {
+      const $grid = $('.js-infinite-scroll-grid');
+      if (!$grid.length) return;
+
+      let currentPage = parseInt($grid.data('current-page'), 10) || 1;
+      const maxPages = parseInt($grid.data('max-pages'), 10) || 1;
+      let nextUrl = $grid.data('next-url');
+      let isLoading = false;
+
+      const $loader = $('#infiniteScrollLoader');
+      const $done = $('#infiniteScrollDone');
+      const sentinel = document.getElementById('infiniteScrollSentinel');
+
+      if (currentPage >= maxPages || !sentinel) {
+        if ($done.length && maxPages > 1) $done.show();
+        return;
+      }
+
+      const self = this;
+
+      const loadNextPage = function() {
+        if (isLoading || currentPage >= maxPages || !nextUrl) return;
+
+        isLoading = true;
+        $loader.css('display', 'inline-flex');
+
+        fetch(nextUrl, {
+          headers: {
+            'X-Requested-With': 'XMLHttpRequest'
+          }
+        })
+          .then(function(res) {
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            return res.text();
+          })
+          .then(function(html) {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(html, 'text/html');
+            const newGrid = doc.querySelector('.js-infinite-scroll-grid') || doc.querySelector('.products-grid');
+
+            if (newGrid) {
+              const newCards = newGrid.querySelectorAll('.product-card');
+              if (newCards.length > 0) {
+                newCards.forEach(function(card) {
+                  card.style.opacity = '0';
+                  card.style.transform = 'translateY(16px)';
+                  card.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+                  $grid[0].appendChild(card);
+
+                  requestAnimationFrame(function() {
+                    card.style.opacity = '1';
+                    card.style.transform = 'translateY(0)';
+                  });
+                });
+
+                // Re-bind wishlist button state on newly loaded products
+                self.initWishlist();
+
+                currentPage++;
+                $grid.attr('data-current-page', currentPage);
+
+                // Update browser address bar without reload
+                if (window.history && window.history.replaceState) {
+                  window.history.replaceState({}, '', nextUrl);
+                }
+
+                // Discover next page URL from fetched content
+                const fetchedGrid = doc.querySelector('.js-infinite-scroll-grid');
+                if (fetchedGrid && fetchedGrid.dataset.nextUrl) {
+                  nextUrl = fetchedGrid.dataset.nextUrl;
+                } else {
+                  const nextLink = doc.querySelector('.shop-pagination-wrap .next, .pagination .next, .nav-links .next');
+                  nextUrl = nextLink ? nextLink.getAttribute('href') : null;
+                }
+
+                if (currentPage >= maxPages || !nextUrl) {
+                  $loader.hide();
+                  $done.show();
+                  if (observer && sentinel) observer.unobserve(sentinel);
+                }
+              } else {
+                $loader.hide();
+                $done.show();
+                if (observer && sentinel) observer.unobserve(sentinel);
+              }
+            } else {
+              $loader.hide();
+              $done.show();
+            }
+          })
+          .catch(function(err) {
+            console.warn('Infinite scroll request failed:', err);
+            $loader.hide();
+          })
+          .finally(function() {
+            isLoading = false;
+            if (currentPage < maxPages && nextUrl) {
+              $loader.hide();
+            }
+          });
+      };
+
+      let observer = null;
+      if ('IntersectionObserver' in window) {
+        observer = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              loadNextPage();
+            }
+          });
+        }, {
+          root: null,
+          rootMargin: '400px 0px',
+          threshold: 0.05
+        });
+
+        observer.observe(sentinel);
+      } else {
+        $(window).on('scroll.infiniteScroll', function() {
+          if (!sentinel) return;
+          const rect = sentinel.getBoundingClientRect();
+          if (rect.top <= window.innerHeight + 400) {
+            loadNextPage();
+          }
+        });
+      }
+    },
+
+    /* ==========================================================================
+       9. Single Product Interactive Tabs
+       ========================================================================== */
+    initProductTabs: function() {
+      $(document).on('click', '.product-tab-btn', function(e) {
+        e.preventDefault();
+        const $btn = $(this);
+        const tabId = $btn.data('tab');
+
+        $('.product-tab-btn').removeClass('is-active');
+        $btn.addClass('is-active');
+
+        $('.product-tab-pane').removeClass('is-active');
+        $('#tab-' + tabId).addClass('is-active');
       });
     }
   };

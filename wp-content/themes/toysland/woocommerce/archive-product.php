@@ -91,8 +91,17 @@ $categories = get_terms([
                 </div>
 
                 <!-- Products Grid -->
-                <?php if (woocommerce_product_loop()) : ?>
-                    <div class="products-grid">
+                <?php if (woocommerce_product_loop()) : 
+                    global $wp_query;
+                    $paged = max(1, get_query_var('paged'));
+                    $max_pages = $wp_query->max_num_pages;
+                    $next_url = next_posts($max_pages, false);
+                ?>
+                    <div class="products-grid js-infinite-scroll-grid"
+                         id="shopProductsGrid"
+                         data-current-page="<?php echo esc_attr($paged); ?>"
+                         data-max-pages="<?php echo esc_attr($max_pages); ?>"
+                         data-next-url="<?php echo esc_url($next_url); ?>">
                         <?php
                         while (have_posts()) :
                             the_post();
@@ -101,16 +110,30 @@ $categories = get_terms([
                         ?>
                     </div>
 
-                    <!-- Pagination -->
-                    <div style="margin-top:40px;display:flex;justify-content:center;">
-                        <?php
-                        the_posts_pagination([
-                            'prev_text' => '&larr; Նախորդ',
-                            'next_text' => 'Հաջորդ &rarr;',
-                            'type'      => 'list',
-                        ]);
-                        ?>
-                    </div>
+                    <!-- Infinite Scroll Status & Sentinel -->
+                    <?php if ($max_pages > 1) : ?>
+                        <div class="infinite-scroll-status" id="infiniteScrollStatus">
+                            <div class="infinite-scroll-loader" id="infiniteScrollLoader" style="display: none;">
+                                <span class="infinite-spinner-icon"></span>
+                                <span class="infinite-loading-text">Բեռնվում են հաջորդ ապրանքները...</span>
+                            </div>
+                            <div class="infinite-scroll-done" id="infiniteScrollDone" style="<?php echo ($paged >= $max_pages) ? '' : 'display: none;'; ?>">
+                                <span>🎉 Դուք դիտել եք բոլոր ապրանքները</span>
+                            </div>
+                            <div class="infinite-scroll-sentinel" id="infiniteScrollSentinel"></div>
+                        </div>
+
+                        <!-- Fallback / SEO Pagination (hidden from view) -->
+                        <div class="shop-pagination-wrap" style="display:none;" aria-hidden="true">
+                            <?php
+                            the_posts_pagination([
+                                'prev_text' => '&larr; Նախորդ',
+                                'next_text' => 'Հաջորդ &rarr;',
+                                'type'      => 'list',
+                            ]);
+                            ?>
+                        </div>
+                    <?php endif; ?>
                 <?php else : ?>
                     <div style="text-align:center;padding:60px 20px;background:var(--color-surface);border-radius:var(--radius-lg);border:1px solid var(--color-border);">
                         <h3>Ապրանքներ չեն գտնվել</h3>
