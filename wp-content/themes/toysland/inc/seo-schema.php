@@ -41,32 +41,33 @@ function toysland_output_schema_jsonld() {
     echo '<script type="application/ld+json">' . wp_json_encode($org_schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . '</script>' . "\n";
 
     // Product Schema on Single Product page
-    if (is_product()) {
+    if (function_exists('is_product') && is_product()) {
         global $product;
-        if ($product) {
+        $product_obj = is_a($product, 'WC_Product') ? $product : (function_exists('wc_get_product') ? wc_get_product(get_the_ID()) : null);
+        if ($product_obj instanceof WC_Product) {
             $product_schema = [
                 '@context'    => 'https://schema.org/',
                 '@type'       => 'Product',
-                'name'        => $product->get_name(),
-                'image'       => toysland_get_product_image_url($product),
-                'description' => wp_strip_all_tags($product->get_short_description() ?: $product->get_description()),
-                'sku'         => $product->get_sku() ?: 'TL-' . $product->get_id(),
+                'name'        => $product_obj->get_name(),
+                'image'       => toysland_get_product_image_url($product_obj),
+                'description' => wp_strip_all_tags($product_obj->get_short_description() ?: $product_obj->get_description()),
+                'sku'         => $product_obj->get_sku() ?: 'TL-' . $product_obj->get_id(),
                 'brand'       => [
                     '@type' => 'Brand',
                     'name'  => 'ToysLand',
                 ],
                 'offers'      => [
                     '@type'         => 'Offer',
-                    'url'           => $product->get_permalink(),
+                    'url'           => $product_obj->get_permalink(),
                     'priceCurrency' => 'AMD',
-                    'price'         => $product->get_price(),
-                    'availability'  => $product->is_in_stock() ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
+                    'price'         => $product_obj->get_price(),
+                    'availability'  => $product_obj->is_in_stock() ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
                     'itemCondition' => 'https://schema.org/NewCondition',
                 ],
                 'aggregateRating' => [
                     '@type'       => 'AggregateRating',
-                    'ratingValue' => $product->get_average_rating() ?: '5.0',
-                    'reviewCount' => $product->get_review_count() ?: '12',
+                    'ratingValue' => $product_obj->get_average_rating() ?: '5.0',
+                    'reviewCount' => $product_obj->get_review_count() ?: '12',
                 ],
             ];
             echo '<script type="application/ld+json">' . wp_json_encode($product_schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . '</script>' . "\n";

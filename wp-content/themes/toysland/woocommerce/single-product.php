@@ -14,7 +14,10 @@ get_header();
 while (have_posts()) :
     the_post();
     global $product;
-    if (!$product) continue;
+    if (!$product || !is_a($product, 'WC_Product')) {
+        $product = function_exists('wc_get_product') ? wc_get_product(get_the_ID()) : null;
+    }
+    if (!$product || !is_a($product, 'WC_Product')) continue;
 
     $product_id   = $product->get_id();
     $product_name = $product->get_name();

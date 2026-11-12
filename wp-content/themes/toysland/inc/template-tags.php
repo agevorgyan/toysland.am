@@ -51,11 +51,11 @@ function toysland_get_category_icon($slug) {
  * Get product fallback image URL based on product name or category
  */
 function toysland_get_product_image_url($product) {
-    if (is_numeric($product)) {
+    if (is_numeric($product) && function_exists('wc_get_product')) {
         $product = wc_get_product($product);
     }
 
-    if (!$product) {
+    if (!$product || !is_a($product, 'WC_Product')) {
         return get_template_directory_uri() . '/assets/images/products/toy-blocks.svg';
     }
 
