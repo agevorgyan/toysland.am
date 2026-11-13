@@ -18,9 +18,9 @@ if (!defined('ABSPATH')) {
         <span class="payment-method-info">
             <span class="payment-method-title">
                 <?php if ($gateway->id === 'bacs') : ?>
-                    <span class="method-icon">💳</span>
+                    <span class="method-icon"><i class="fa-solid fa-credit-card"></i></span>
                 <?php else : ?>
-                    <span class="method-icon">💵</span>
+                    <span class="method-icon"><i class="fa-solid fa-money-bill-wave"></i></span>
                 <?php endif; ?>
                 <strong><?php echo $gateway->get_title(); ?></strong>
             </span>

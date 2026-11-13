@@ -89,7 +89,7 @@ if ($is_on_sale && $regular_price > 0 && $sale_price > 0) {
             <span>Ավելացնել</span>
         </button>
         <a href="<?php echo esc_url($product_url); ?>" class="btn-quick-buy" title="Դիտել">
-            <span>👁️</span>
+            <span><i class="fa-solid fa-eye"></i></span>
         </a>
     </div>
 </div>

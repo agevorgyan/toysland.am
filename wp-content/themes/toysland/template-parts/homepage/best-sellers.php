@@ -35,7 +35,7 @@ if (!$query->have_posts()) {
     <div class="container">
         <div class="section-header">
             <div class="section-title-wrap">
-                <span class="section-subtitle">🔥 Ամենապահանջված</span>
+                <span class="section-subtitle"><i class="fa-solid fa-fire"></i> Ամենապահանջված</span>
                 <h2 class="section-title">Լավագույն վաճառքներ</h2>
             </div>
             <a href="<?php echo esc_url(wc_get_page_permalink('shop')); ?>" class="section-view-all-link">

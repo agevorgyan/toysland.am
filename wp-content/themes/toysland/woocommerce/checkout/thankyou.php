@@ -20,7 +20,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
         <?php if ($order->has_status('failed')) : ?>
             <!-- FAILED ORDER STATE -->
             <div class="thankyou-hero-card is-failed">
-                <div class="hero-icon-box">❌</div>
+                <div class="hero-icon-box"><i class="fa-solid fa-circle-xmark"></i></div>
                 <h1 class="hero-title">Ցավոք, պատվերը չհաջողվեց հաստատել</h1>
                 <p class="hero-subtitle">
                     Գործարքը մերժվել է բանկի կամ վճարային համակարգի կողմից: Խնդրում ենք փորձել կրկին կամ ընտրել այլ վճարման եղանակ:
@@ -40,8 +40,8 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
                             <polyline points="20 6 9 17 4 12"></polyline>
                         </svg>
                     </div>
-                    <span class="hero-sparkle-left">✨</span>
-                    <span class="hero-sparkle-right">🎉</span>
+                    <span class="hero-sparkle-left"><i class="fa-solid fa-wand-magic-sparkles"></i></span>
+                    <span class="hero-sparkle-right"><i class="fa-solid fa-gift"></i></span>
                 </div>
 
                 <div class="hero-status-pill">
@@ -60,7 +60,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
             <div class="thankyou-overview-grid">
                 <!-- Tile 1: Order Number -->
                 <div class="overview-tile">
-                    <div class="tile-icon">🔢</div>
+                    <div class="tile-icon"><i class="fa-solid fa-hashtag"></i></div>
                     <div class="tile-content">
                         <span class="tile-label">Պատվերի համար</span>
                         <strong class="tile-value">#<?php echo esc_html($order->get_order_number()); ?></strong>
@@ -69,7 +69,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
 
                 <!-- Tile 2: Date -->
                 <div class="overview-tile">
-                    <div class="tile-icon">📅</div>
+                    <div class="tile-icon"><i class="fa-solid fa-calendar-days"></i></div>
                     <div class="tile-content">
                         <span class="tile-label">Ամսաթիվ</span>
                         <strong class="tile-value">
@@ -93,7 +93,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
 
                 <!-- Tile 3: Payment Method -->
                 <div class="overview-tile">
-                    <div class="tile-icon">💳</div>
+                    <div class="tile-icon"><i class="fa-solid fa-credit-card"></i></div>
                     <div class="tile-content">
                         <span class="tile-label">Վճարման եղանակ</span>
                         <strong class="tile-value"><?php echo wp_kses_post($order->get_payment_method_title() ?: 'Կանխիկ'); ?></strong>
@@ -102,7 +102,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
 
                 <!-- Tile 4: Total -->
                 <div class="overview-tile tile-highlight">
-                    <div class="tile-icon">💰</div>
+                    <div class="tile-icon"><i class="fa-solid fa-wallet"></i></div>
                     <div class="tile-content">
                         <span class="tile-label">Ընդհանուր գումար</span>
                         <strong class="tile-value tile-total-price"><?php echo wp_kses_post($order->get_formatted_order_total()); ?></strong>
@@ -116,7 +116,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
                 <!-- Left: Ordered Products Card -->
                 <div class="thankyou-card products-card">
                     <div class="thankyou-card-header">
-                        <div class="header-icon-box">🛍️</div>
+                        <div class="header-icon-box"><i class="fa-solid fa-bag-shopping"></i></div>
                         <div class="header-title-box">
                             <h2 class="card-title">Պատվիրված ապրանքներ</h2>
                             <span class="card-badge"><?php echo esc_html($order->get_item_count()); ?> ապրանք</span>
@@ -208,7 +208,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
                     <!-- Customer & Delivery Card -->
                     <div class="thankyou-card delivery-info-card">
                         <div class="thankyou-card-header">
-                            <div class="header-icon-box">📍</div>
+                            <div class="header-icon-box"><i class="fa-solid fa-location-dot"></i></div>
                             <div class="header-title-box">
                                 <h2 class="card-title">Առաքման տվյալներ</h2>
                             </div>
@@ -217,7 +217,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
                         <div class="delivery-details-list">
                             <?php if ($order->get_billing_first_name()) : ?>
                                 <div class="detail-row">
-                                    <span class="detail-icon">👤</span>
+                                    <span class="detail-icon"><i class="fa-solid fa-user"></i></span>
                                     <div class="detail-text">
                                         <span class="detail-label">Ստացող</span>
                                         <strong class="detail-val"><?php echo esc_html($order->get_billing_first_name()); ?></strong>
@@ -227,7 +227,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
 
                             <?php if ($order->get_billing_phone()) : ?>
                                 <div class="detail-row">
-                                    <span class="detail-icon">📞</span>
+                                    <span class="detail-icon"><i class="fa-solid fa-phone"></i></span>
                                     <div class="detail-text">
                                         <span class="detail-label">Հեռախոսահամար</span>
                                         <strong class="detail-val"><?php echo esc_html($order->get_billing_phone()); ?></strong>
@@ -237,7 +237,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
 
                             <?php if ($order->get_billing_email()) : ?>
                                 <div class="detail-row">
-                                    <span class="detail-icon">✉️</span>
+                                    <span class="detail-icon"><i class="fa-solid fa-envelope"></i></span>
                                     <div class="detail-text">
                                         <span class="detail-label">Էլ. հասցե</span>
                                         <strong class="detail-val"><?php echo esc_html($order->get_billing_email()); ?></strong>
@@ -247,7 +247,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
 
                             <?php if ($order->get_billing_address_1()) : ?>
                                 <div class="detail-row">
-                                    <span class="detail-icon">🏠</span>
+                                    <span class="detail-icon"><i class="fa-solid fa-house"></i></span>
                                     <div class="detail-text">
                                         <span class="detail-label">Առաքման հասցե</span>
                                         <strong class="detail-val"><?php echo esc_html($order->get_billing_address_1()); ?></strong>
@@ -257,7 +257,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
 
                             <?php if ($order->get_billing_postcode()) : ?>
                                 <div class="detail-row">
-                                    <span class="detail-icon">📮</span>
+                                    <span class="detail-icon"><i class="fa-solid fa-signs-post"></i></span>
                                     <div class="detail-text">
                                         <span class="detail-label">Փոստային դասիչ</span>
                                         <strong class="detail-val"><?php echo esc_html($order->get_billing_postcode()); ?></strong>
@@ -267,7 +267,7 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
 
                             <?php if ($order->get_customer_note()) : ?>
                                 <div class="detail-row notes-row">
-                                    <span class="detail-icon">📝</span>
+                                    <span class="detail-icon"><i class="fa-solid fa-clipboard-check"></i></span>
                                     <div class="detail-text">
                                         <span class="detail-label">Նշումներ առաքչի համար</span>
                                         <p class="detail-val note-content"><?php echo esc_html($order->get_customer_note()); ?></p>
@@ -280,16 +280,16 @@ remove_action('woocommerce_thankyou', 'woocommerce_order_details_table', 10);
                     <!-- Need Help & Support Card -->
                     <div class="thankyou-card support-card">
                         <div class="support-content">
-                            <span class="support-badge">💬 Օգնությո՞ւն է պետք</span>
+                            <span class="support-badge"><i class="fa-solid fa-comment-dots"></i> Օգնությո՞ւն է պետք</span>
                             <h3 class="support-title">Հարցերի դեպքում մենք կողքիդ ենք</h3>
                             <p class="support-desc">Մեր թիմը սիրով կպատասխանի Ձեր ցանկացած հարցին:</p>
                             <div class="support-contacts">
                                 <a href="tel:+37410123456" class="support-contact-item">
-                                    <span class="contact-icon">📞</span>
+                                    <span class="contact-icon"><i class="fa-solid fa-phone"></i></span>
                                     <span>+374 (10) 12-34-56</span>
                                 </a>
                                 <a href="mailto:info@toysland.am" class="support-contact-item">
-                                    <span class="contact-icon">✉️</span>
+                                    <span class="contact-icon"><i class="fa-solid fa-envelope"></i></span>
                                     <span>info@toysland.am</span>
                                 </a>
                             </div>

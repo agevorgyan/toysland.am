@@ -33,19 +33,19 @@ $is_empty = !$is_thank_you && (!$cart || $cart->is_empty());
         <!-- Checkout Steps Progress Bar -->
         <div class="checkout-steps-bar">
             <a href="<?php echo esc_url(wc_get_cart_url()); ?>" class="step-pill step-completed">
-                <span class="step-icon">✓</span>
+                <span class="step-icon"><i class="fa-solid fa-check"></i></span>
                 <span class="step-name">1. Զամբյուղ</span>
             </a>
             <span class="step-separator">→</span>
             <?php if ($is_thank_you) : ?>
                 <div class="step-pill step-completed">
-                    <span class="step-icon">✓</span>
+                    <span class="step-icon"><i class="fa-solid fa-check"></i></span>
                     <span class="step-name">2. Ձևակերպում</span>
                 </div>
                 <span class="step-separator">→</span>
                 <div class="step-pill step-current">
                     <span class="step-icon">3</span>
-                    <span class="step-name">3. Հաստատված է 🎉</span>
+                    <span class="step-name">3. Հաստատված է <i class="fa-solid fa-award"></i></span>
                 </div>
             <?php else : ?>
                 <div class="step-pill step-current">

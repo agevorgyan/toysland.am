@@ -73,7 +73,7 @@ $categories = get_terms([
 
                 <!-- Fast Delivery Guarantee Box -->
                 <div style="background:var(--color-primary-light);border-radius:var(--radius-md);padding:16px;margin-top:20px;">
-                    <div style="font-size:13px;font-weight:800;color:var(--color-primary);margin-bottom:6px;">🚚 Առաքում Երևանում</div>
+                    <div style="font-size:13px;font-weight:800;color:var(--color-primary);margin-bottom:6px;"><i class="fa-solid fa-truck-fast"></i> Առաքում Երևանում</div>
                     <div style="font-size:12px;color:var(--color-text-main);line-height:1.4;">Պատվիրեք մինչև 15:00-ն և ստացեք նույն կամ հաջորդ աշխատանքային օրը:</div>
                 </div>
             </aside>
@@ -118,7 +118,7 @@ $categories = get_terms([
                                 <span class="infinite-loading-text">Բեռնվում են հաջորդ ապրանքները...</span>
                             </div>
                             <div class="infinite-scroll-done" id="infiniteScrollDone" style="<?php echo ($paged >= $max_pages) ? '' : 'display: none;'; ?>">
-                                <span>🎉 Դուք դիտել եք բոլոր ապրանքները</span>
+                                <span><i class="fa-solid fa-circle-check"></i> Դուք դիտել եք բոլոր ապրանքները</span>
                             </div>
                             <div class="infinite-scroll-sentinel" id="infiniteScrollSentinel"></div>
                         </div>

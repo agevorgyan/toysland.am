@@ -61,15 +61,15 @@ $icon_bg_colors = [
     <!-- Mega Menu Bottom Guarantee Strip -->
     <div class="mega-menu-footer">
         <div class="mega-footer-item">
-            <span class="mega-footer-icon">🚚</span>
+            <span class="mega-footer-icon"><i class="fa-solid fa-truck-fast"></i></span>
             <span>Անվճար առաքում 15 000 ֏-ից</span>
         </div>
         <div class="mega-footer-item">
-            <span class="mega-footer-icon">🛡️</span>
+            <span class="mega-footer-icon"><i class="fa-solid fa-shield-halved"></i></span>
             <span>100% Սերտիֆիկացված խաղալիքներ</span>
         </div>
         <div class="mega-footer-item">
-            <span class="mega-footer-icon">🎁</span>
+            <span class="mega-footer-icon"><i class="fa-solid fa-gift"></i></span>
             <span>Անվճար նվերի փաթեթավորում</span>
         </div>
     </div>

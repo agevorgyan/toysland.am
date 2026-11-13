@@ -124,11 +124,11 @@ function toysland_render_rating($rating, $count = 0) {
     $html .= '<div class="rating-stars">';
     for ($i = 1; $i <= 5; $i++) {
         if ($i <= $full_stars) {
-            $html .= '<span class="star-icon">★</span>';
+            $html .= '<i class="fa-solid fa-star star-icon"></i>';
         } elseif ($half_star && $i == $full_stars + 1) {
-            $html .= '<span class="star-icon">★</span>';
+            $html .= '<i class="fa-solid fa-star-half-stroke star-icon"></i>';
         } else {
-            $html .= '<span class="star-icon" style="opacity:0.3;">★</span>';
+            $html .= '<i class="fa-regular fa-star star-icon" style="opacity:0.4;"></i>';
         }
     }
     $html .= '</div>';

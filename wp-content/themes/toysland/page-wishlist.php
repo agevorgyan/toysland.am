@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
     if (list.length === 0) {
         container.innerHTML = `
             <div style="grid-column:1/-1;text-align:center;padding:60px 20px;background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-xl);">
-                <div style="font-size:48px;margin-bottom:14px;">❤️</div>
+                <div style="font-size:48px;margin-bottom:14px;color:var(--color-primary);"><i class="fa-solid fa-heart"></i></div>
                 <h3 style="font-size:20px;margin-bottom:8px;">Դուք դեռ չունեք ընտրյալ խաղալիքներ</h3>
                 <p style="color:var(--color-text-muted);margin-bottom:20px;">Սեղմեք սրտիկի վրա ցանկացած խաղալիքի քարտում՝ այն այստեղ պահպանելու համար:</p>
                 <a href="<?php echo esc_url(wc_get_page_permalink('shop')); ?>" class="btn-primary-large" style="display:inline-flex;">Գնալ խանութ</a>

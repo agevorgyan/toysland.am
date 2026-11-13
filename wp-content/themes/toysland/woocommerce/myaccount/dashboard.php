@@ -43,13 +43,13 @@ $completed_orders = is_array($completed_orders_arr) ? count($completed_orders_ar
     <!-- Welcome Greeting Hero -->
     <div class="dashboard-hero-banner">
         <div class="hero-text-wrap">
-            <span class="hero-badge">🧸 Բարի գալուստ Ձեր անձնական էջ</span>
-            <h2 class="hero-title">Ողջույն, <?php echo esc_html($display_name); ?>! 👋</h2>
+            <span class="hero-badge"><i class="fa-solid fa-shapes"></i> Բարի գալուստ Ձեր անձնական էջ</span>
+            <h2 class="hero-title">Ողջույն, <?php echo esc_html($display_name); ?>! <i class="fa-solid fa-hand" style="font-size:18px;color:#fcd34d;"></i></h2>
             <p class="hero-desc">Այստեղ կարող եք արագ հետևել Ձեր պատվերների կարգավիճակին, կառավարել առաքման հասցեները և թարմացնել անձնական տվյալները:</p>
         </div>
         <div class="hero-cta-wrap">
             <a href="<?php echo esc_url(wc_get_page_permalink('shop')); ?>" class="hero-shop-btn">
-                <span>🛍️ Գնալ խանութ</span>
+                <span><i class="fa-solid fa-bag-shopping"></i> Գնալ խանութ</span>
             </a>
         </div>
     </div>
@@ -58,7 +58,7 @@ $completed_orders = is_array($completed_orders_arr) ? count($completed_orders_ar
     <div class="dashboard-stats-grid">
         
         <div class="stat-card">
-            <div class="stat-icon-wrap stat-icon-blue">📦</div>
+            <div class="stat-icon-wrap stat-icon-blue"><i class="fa-solid fa-box-open" style="color:#2563eb;"></i></div>
             <div class="stat-content">
                 <span class="stat-value"><?php echo esc_html($total_orders); ?></span>
                 <span class="stat-label">Ընդհանուր պատվերներ</span>
@@ -66,7 +66,7 @@ $completed_orders = is_array($completed_orders_arr) ? count($completed_orders_ar
         </div>
 
         <div class="stat-card">
-            <div class="stat-icon-wrap stat-icon-orange">⏳</div>
+            <div class="stat-icon-wrap stat-icon-orange"><i class="fa-solid fa-hourglass-half" style="color:#ea580c;"></i></div>
             <div class="stat-content">
                 <span class="stat-value"><?php echo esc_html($processing_orders); ?></span>
                 <span class="stat-label">Ընթացքի մեջ</span>
@@ -74,7 +74,7 @@ $completed_orders = is_array($completed_orders_arr) ? count($completed_orders_ar
         </div>
 
         <div class="stat-card">
-            <div class="stat-icon-wrap stat-icon-green">✅</div>
+            <div class="stat-icon-wrap stat-icon-green"><i class="fa-solid fa-circle-check" style="color:#10b981;"></i></div>
             <div class="stat-content">
                 <span class="stat-value"><?php echo esc_html($completed_orders); ?></span>
                 <span class="stat-label">Կատարված պատվերներ</span>
@@ -90,39 +90,39 @@ $completed_orders = is_array($completed_orders_arr) ? count($completed_orders_ar
         <div class="shortcuts-grid">
             
             <a href="<?php echo esc_url(wc_get_endpoint_url('orders')); ?>" class="shortcut-card">
-                <div class="shortcut-icon">📦</div>
+                <div class="shortcut-icon"><i class="fa-solid fa-box-open" style="color:#7c3aed;"></i></div>
                 <div class="shortcut-body">
                     <h4 class="shortcut-title">Իմ պատվերները</h4>
                     <p class="shortcut-desc">Դիտել պատվերների պատմությունն ու առաքման ընթացքը</p>
                 </div>
-                <div class="shortcut-action">→</div>
+                <div class="shortcut-action"><i class="fa-solid fa-arrow-right"></i></div>
             </a>
 
             <a href="<?php echo esc_url(wc_get_endpoint_url('edit-address')); ?>" class="shortcut-card">
-                <div class="shortcut-icon">📍</div>
+                <div class="shortcut-icon"><i class="fa-solid fa-location-dot" style="color:#3b82f6;"></i></div>
                 <div class="shortcut-body">
                     <h4 class="shortcut-title">Առաքման հասցեներ</h4>
                     <p class="shortcut-desc">Կառավարել գրանցված հասցեներն արագ գնումների համար</p>
                 </div>
-                <div class="shortcut-action">→</div>
+                <div class="shortcut-action"><i class="fa-solid fa-arrow-right"></i></div>
             </a>
 
             <a href="<?php echo esc_url(wc_get_endpoint_url('edit-account')); ?>" class="shortcut-card">
-                <div class="shortcut-icon">⚙️</div>
+                <div class="shortcut-icon"><i class="fa-solid fa-gear" style="color:#f59e0b;"></i></div>
                 <div class="shortcut-body">
                     <h4 class="shortcut-title">Հաշվի տվյալներ</h4>
                     <p class="shortcut-desc">Փոփոխել անունը, էլ. հասցեն կամ գաղտնաբառը</p>
                 </div>
-                <div class="shortcut-action">→</div>
+                <div class="shortcut-action"><i class="fa-solid fa-arrow-right"></i></div>
             </a>
 
             <a href="<?php echo esc_url(home_url('/wishlist/')); ?>" class="shortcut-card">
-                <div class="shortcut-icon">❤️</div>
+                <div class="shortcut-icon"><i class="fa-solid fa-heart" style="color:#ec4899;"></i></div>
                 <div class="shortcut-body">
                     <h4 class="shortcut-title">Ընտրյալների ցանկ</h4>
                     <p class="shortcut-desc">Դիտել պահպանված խաղալիքները</p>
                 </div>
-                <div class="shortcut-action">→</div>
+                <div class="shortcut-action"><i class="fa-solid fa-arrow-right"></i></div>
             </a>
 
         </div>
@@ -132,4 +132,3 @@ $completed_orders = is_array($completed_orders_arr) ? count($completed_orders_ar
 
 <?php
 do_action('woocommerce_account_dashboard');
-

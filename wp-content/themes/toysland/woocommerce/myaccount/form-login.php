@@ -25,11 +25,11 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                 <!-- Auth Tabs Switcher -->
                 <div class="auth-tabs-nav">
                     <button type="button" class="auth-tab-btn js-auth-tab <?php echo !$is_register_active ? 'is-active' : ''; ?>" data-target="#loginTab">
-                        <span class="tab-icon">👤</span>
+                        <span class="tab-icon"><i class="fa-solid fa-user"></i></span>
                         <span>Մուտք գործել</span>
                     </button>
                     <button type="button" class="auth-tab-btn js-auth-tab <?php echo $is_register_active ? 'is-active' : ''; ?>" data-target="#registerTab">
-                        <span class="tab-icon">✍️</span>
+                        <span class="tab-icon"><i class="fa-solid fa-pen-to-square"></i></span>
                         <span>Գրանցվել</span>
                     </button>
                 </div>
@@ -53,7 +53,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                             Մուտքանուն կամ էլ. հասցե <span class="required">*</span>
                         </label>
                         <div class="auth-input-wrap">
-                            <span class="input-icon">👤</span>
+                            <span class="input-icon"><i class="fa-solid fa-user"></i></span>
                             <input type="text" 
                                    class="woocommerce-Input input-text auth-input" 
                                    name="username" 
@@ -71,7 +71,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                             Գաղտնաբառ <span class="required">*</span>
                         </label>
                         <div class="auth-input-wrap">
-                            <span class="input-icon">🔒</span>
+                            <span class="input-icon"><i class="fa-solid fa-lock"></i></span>
                             <input class="woocommerce-Input input-text auth-input js-password-input" 
                                    type="password" 
                                    name="password" 
@@ -80,8 +80,8 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                                    placeholder="Մուտքագրեք գաղտնաբառը"
                                    required />
                             <button type="button" class="password-toggle-btn js-toggle-pwd" aria-label="Ցուցադրել գաղտնաբառը">
-                                <span class="pwd-eye-open">👁️</span>
-                                <span class="pwd-eye-closed" style="display:none;">🙈</span>
+                                <span class="pwd-eye-open"><i class="fa-solid fa-eye"></i></span>
+                                <span class="pwd-eye-closed" style="display:none;"><i class="fa-solid fa-eye-slash"></i></span>
                             </button>
                         </div>
                     </div>
@@ -138,7 +138,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                                     Մուտքանուն (Username) <span class="required">*</span>
                                 </label>
                                 <div class="auth-input-wrap">
-                                    <span class="input-icon">👤</span>
+                                    <span class="input-icon"><i class="fa-solid fa-user"></i></span>
                                     <input type="text" 
                                            class="woocommerce-Input input-text auth-input" 
                                            name="username" 
@@ -157,7 +157,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                                 Էլեկտրոնային հասցե (Email) <span class="required">*</span>
                             </label>
                             <div class="auth-input-wrap">
-                                <span class="input-icon">✉️</span>
+                                <span class="input-icon"><i class="fa-solid fa-envelope"></i></span>
                                 <input type="email" 
                                        class="woocommerce-Input input-text auth-input" 
                                        name="email" 
@@ -176,7 +176,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                                     Գաղտնաբառ <span class="required">*</span>
                                 </label>
                                 <div class="auth-input-wrap">
-                                    <span class="input-icon">🔒</span>
+                                    <span class="input-icon"><i class="fa-solid fa-lock"></i></span>
                                     <input type="password" 
                                            class="woocommerce-Input input-text auth-input js-password-input" 
                                            name="password" 
@@ -185,8 +185,8 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                                            placeholder="Ստեղծեք ապահով գաղտնաբառ"
                                            required />
                                     <button type="button" class="password-toggle-btn js-toggle-pwd" aria-label="Ցուցադրել գաղտնաբառը">
-                                        <span class="pwd-eye-open">👁️</span>
-                                        <span class="pwd-eye-closed" style="display:none;">🙈</span>
+                                        <span class="pwd-eye-open"><i class="fa-solid fa-eye"></i></span>
+                                        <span class="pwd-eye-closed" style="display:none;"><i class="fa-solid fa-eye-slash"></i></span>
                                     </button>
                                 </div>
                             </div>
@@ -227,14 +227,14 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
         <!-- Right: ToysLand Perks & Benefits Card -->
         <div class="auth-perks-card">
             <div class="perks-badge">
-                <span>🎈 ToysLand Club</span>
+                <span><i class="fa-solid fa-award"></i> ToysLand Club</span>
             </div>
             <h3 class="perks-heading">Ինչո՞ւ ունենալ հաշիվ ToysLand-ում</h3>
             <p class="perks-subheading">Գրանցվեք և օգտվեք մեր բոլոր առավելություններից ու հատուկ ակցիաներից:</p>
 
             <div class="perks-list">
                 <div class="perk-item">
-                    <div class="perk-icon">🎁</div>
+                    <div class="perk-icon"><i class="fa-solid fa-gift"></i></div>
                     <div class="perk-text">
                         <strong>Անհատական զեղչեր</strong>
                         <span>Հատուկ նվերներ ծննդյան օրվա առթիվ և բոնուսային միավորներ</span>
@@ -242,7 +242,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                 </div>
 
                 <div class="perk-item">
-                    <div class="perk-icon">⚡</div>
+                    <div class="perk-icon"><i class="fa-solid fa-bolt"></i></div>
                     <div class="perk-text">
                         <strong>Արագ գնումներ</strong>
                         <span>Պահպանեք Ձեր հասցեն և ձևակերպեք պատվերները 1 քլիքով</span>
@@ -250,7 +250,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                 </div>
 
                 <div class="perk-item">
-                    <div class="perk-icon">📦</div>
+                    <div class="perk-icon"><i class="fa-solid fa-box-open"></i></div>
                     <div class="perk-text">
                         <strong>Պատվերների պատմություն</strong>
                         <span>Հետևեք Ձեր բոլոր առաքումների ընթացքին իրական ժամանակում</span>
@@ -258,7 +258,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
                 </div>
 
                 <div class="perk-item">
-                    <div class="perk-icon">❤️</div>
+                    <div class="perk-icon"><i class="fa-solid fa-heart"></i></div>
                     <div class="perk-text">
                         <strong>Ընտրյալների ցանկ (Wishlist)</strong>
                         <span>Պահպանեք երեխայի նախընտրած խաղալիքները ապագա գնումների համար</span>
@@ -267,7 +267,7 @@ $is_register_active  = (!empty($_POST['register']) || (isset($_GET['action']) &&
             </div>
 
             <div class="perks-social-proof">
-                <div class="stars-row">⭐⭐⭐⭐⭐</div>
+                <div class="stars-row"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></div>
                 <div class="proof-text">Ավելի քան <strong>2 500</strong> երջանիկ փոքրիկներ և գոհունակ ծնողներ Հայաստանում:</div>
             </div>
         </div>

@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
 <div class="toysland-announcement-bar">
     <div class="container announcement-inner">
         <div class="announcement-message">
-            <span class="icon-truck">🚚</span>
+            <span class="icon-truck"><i class="fa-solid fa-truck-fast"></i></span>
             <span>Առաքում Երևանում՝ <strong>1 աշխատանքային օրվա ընթացքում</strong> | Անվճար առաքում 15 000 ֏-ից սկսած:</span>
         </div>
         <div class="announcement-extras">

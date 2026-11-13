@@ -28,7 +28,7 @@ if (!$checkout->is_registration_enabled() && $checkout->is_registration_required
             <!-- Card 1: Contact & Delivery Info -->
             <div class="checkout-card customer-info-card">
                 <div class="checkout-card-header">
-                    <div class="card-header-icon">📍</div>
+                    <div class="card-header-icon"><i class="fa-solid fa-location-dot"></i></div>
                     <div class="card-header-text">
                         <h2 class="card-header-title">Առաքման և կոնտակտային տվյալներ</h2>
                         <p class="card-header-subtitle">Լրացրեք տվյալները՝ պատվերը Ձեզ հասցնելու համար</p>
@@ -58,7 +58,7 @@ if (!$checkout->is_registration_enabled() && $checkout->is_registration_required
             <!-- Card 2: Payment Methods Selection -->
             <div class="checkout-card payment-selection-card">
                 <div class="checkout-card-header">
-                    <div class="card-header-icon">💳</div>
+                    <div class="card-header-icon"><i class="fa-solid fa-credit-card"></i></div>
                     <div class="card-header-text">
                         <h2 class="card-header-title">Վճարման եղանակ</h2>
                         <p class="card-header-subtitle">Ընտրեք Ձեզ հարմար վճարման տարբերակը</p>
@@ -77,7 +77,7 @@ if (!$checkout->is_registration_enabled() && $checkout->is_registration_required
             <div class="checkout-card checkout-summary-card">
                 
                 <div class="checkout-summary-header">
-                    <div class="card-header-icon">🛍️</div>
+                    <div class="card-header-icon"><i class="fa-solid fa-bag-shopping"></i></div>
                     <div class="card-header-text">
                         <h2 class="card-header-title">
                             Ձեր պատվերը
@@ -93,21 +93,21 @@ if (!$checkout->is_registration_enabled() && $checkout->is_registration_required
                 <!-- Trust and Guarantees Box -->
                 <div class="checkout-trust-box">
                     <div class="checkout-trust-item">
-                        <div class="trust-icon">🚚</div>
+                        <div class="trust-icon"><i class="fa-solid fa-truck-fast"></i></div>
                         <div class="trust-text">
                             <strong>Արագ առաքում Երևանում</strong>
                             <span>1 աշխատանքային օրվա ընթացքում</span>
                         </div>
                     </div>
                     <div class="checkout-trust-item">
-                        <div class="trust-icon">🛡️</div>
+                        <div class="trust-icon"><i class="fa-solid fa-shield-halved"></i></div>
                         <div class="trust-text">
                             <strong>100% Օրիգինալ և անվտանգ</strong>
                             <span>Սերտիֆիկացված էկոլոգիապես մաքուր խաղալիքներ</span>
                         </div>
                     </div>
                     <div class="checkout-trust-item">
-                        <div class="trust-icon">🔒</div>
+                        <div class="trust-icon"><i class="fa-solid fa-lock"></i></div>
                         <div class="trust-text">
                             <strong>Անվտանգ գործարք</strong>
                             <span>256-bit SSL պաշտպանված համակարգ</span>

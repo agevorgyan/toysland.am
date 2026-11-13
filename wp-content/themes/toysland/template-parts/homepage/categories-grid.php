@@ -19,7 +19,7 @@ $categories = get_terms([
     <div class="container">
         <div class="section-header">
             <div class="section-title-wrap">
-                <span class="section-subtitle">🎨 Ընտրեք ըստ թեմայի</span>
+                <span class="section-subtitle"><i class="fa-solid fa-shapes"></i> Ընտրեք ըստ թեմայի</span>
                 <h2 class="section-title">Խաղալիքների կատեգորիաներ</h2>
             </div>
             <a href="<?php echo esc_url(wc_get_page_permalink('shop')); ?>" class="section-view-all-link">

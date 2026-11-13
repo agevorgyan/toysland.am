@@ -68,8 +68,16 @@ function toysland_scripts() {
         null
     );
 
+    // Font Awesome 6 Icons
+    wp_enqueue_style(
+        'font-awesome',
+        'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css',
+        [],
+        '6.5.1'
+    );
+
     // Main Stylesheet
-    wp_enqueue_style('toysland-style', get_stylesheet_uri(), ['toysland-fonts'], TOYSLAND_VERSION);
+    wp_enqueue_style('toysland-style', get_stylesheet_uri(), ['toysland-fonts', 'font-awesome'], TOYSLAND_VERSION);
 
     // Main Interactive JS
     wp_enqueue_script(

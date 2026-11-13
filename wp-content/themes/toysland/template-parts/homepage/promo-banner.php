@@ -15,7 +15,7 @@ $theme_uri = get_template_directory_uri();
     <div class="container">
         <div class="campaign-banner-box">
             <div class="campaign-banner-content">
-                <span class="campaign-tag">🎉 Հատուկ Առաջարկ</span>
+                <span class="campaign-tag"><i class="fa-solid fa-gift"></i> Հատուկ Առաջարկ</span>
                 <h2 class="campaign-title">Ծննդյան տոների և նվերների սեզոն՝ մինչև 30% զեղչ</h2>
                 <p class="campaign-desc">Պատվիրեք Ձեր երեխայի երազանքի խաղալիքը, իսկ մենք այն կփաթեթավորենք գեղեցիկ նվերային թղթով և կառաքենք ուղիղ Ձեր դռան մոտ:</p>
                 <div class="campaign-code-box">

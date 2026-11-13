@@ -137,16 +137,16 @@ while (have_posts()) :
         <div class="product-info-tabs-wrapper">
             <div class="product-tabs-nav" role="tablist">
                 <button type="button" class="product-tab-btn is-active" data-tab="desc">
-                    <span>📑 Նկարագրություն</span>
+                    <span><i class="fa-solid fa-file-lines"></i> Նկարագրություն</span>
                 </button>
                 <button type="button" class="product-tab-btn" data-tab="specs">
-                    <span>⚙️ Բնութագիր</span>
+                    <span><i class="fa-solid fa-sliders"></i> Բնութագիր</span>
                 </button>
                 <button type="button" class="product-tab-btn" data-tab="delivery">
-                    <span>🚚 Առաքում և վճարում</span>
+                    <span><i class="fa-solid fa-truck-fast"></i> Առաքում և վճարում</span>
                 </button>
                 <button type="button" class="product-tab-btn" data-tab="reviews">
-                    <span>⭐ Կարծիքներ (<?php echo esc_html($product->get_review_count() ?: '12'); ?>)</span>
+                    <span><i class="fa-solid fa-star"></i> Կարծիքներ (<?php echo esc_html($product->get_review_count() ?: '12'); ?>)</span>
                 </button>
             </div>
 
@@ -158,21 +158,21 @@ while (have_posts()) :
                         
                         <div class="product-highlights-grid">
                             <div class="highlight-item">
-                                <span class="highlight-icon">🛡️</span>
+                                <span class="highlight-icon"><i class="fa-solid fa-shield-halved"></i></span>
                                 <div>
                                     <strong>Անվտանգություն</strong>
                                     <p>Չի պարունակում տոքսիկ նյութեր կամ վնասակար ներկեր</p>
                                 </div>
                             </div>
                             <div class="highlight-item">
-                                <span class="highlight-icon">🧠</span>
+                                <span class="highlight-icon"><i class="fa-solid fa-brain"></i></span>
                                 <div>
                                     <strong>Զարգացնող</strong>
                                     <p>Զարգացնում է մանր մոտորիկան, ուշադրությունը և տրամաբանությունը</p>
                                 </div>
                             </div>
                             <div class="highlight-item">
-                                <span class="highlight-icon">🎁</span>
+                                <span class="highlight-icon"><i class="fa-solid fa-gift"></i></span>
                                 <div>
                                     <strong>Հիանալի նվեր</strong>
                                     <p>Հարմար է ծննդյան, Ամանորի և տոնական ցանկացած առիթի համար</p>
@@ -222,7 +222,7 @@ while (have_posts()) :
                 <div class="product-tab-pane" id="tab-delivery">
                     <div class="delivery-info-grid">
                         <div class="delivery-card">
-                            <h4>🚀 Առաքում Երևանում</h4>
+                            <h4><i class="fa-solid fa-rocket"></i> Առաքում Երևանում</h4>
                             <ul>
                                 <li><strong>Սովորական առաքում՝</strong> 1 աշխատանքային օրվա ընթացքում (1 000 ֏):</li>
                                 <li><strong>Անվճար առաքում՝</strong> 15 000 ֏ և ավելի գնումների դեպքում:</li>
@@ -230,14 +230,14 @@ while (have_posts()) :
                             </ul>
                         </div>
                         <div class="delivery-card">
-                            <h4>📦 Առաքում ՀՀ Մարզեր</h4>
+                            <h4><i class="fa-solid fa-box-open"></i> Առաքում ՀՀ Մարզեր</h4>
                             <ul>
                                 <li>Առաքում Հայփոստի կամ առաքիչ ծառայության միջոցով (2-3 աշխատանքային օր):</li>
                                 <li>Արժեքը՝ 1 500 ֏:</li>
                             </ul>
                         </div>
                         <div class="delivery-card">
-                            <h4>💳 Վճարման եղանակներ</h4>
+                            <h4><i class="fa-solid fa-credit-card"></i> Վճարման եղանակներ</h4>
                             <ul>
                                 <li>Կանխիկ առաքիչին՝ ապրանքը ստանալիս:</li>
                                 <li>Առցանց քարտով (Visa, MasterCard, ArCa):</li>
@@ -252,26 +252,26 @@ while (have_posts()) :
                     <div class="reviews-summary-wrap">
                         <div class="reviews-score-box">
                             <div class="big-score"><?php echo esc_html($product->get_average_rating() ?: '5.0'); ?></div>
-                            <div class="score-stars">⭐⭐⭐⭐⭐</div>
+                            <div class="score-stars"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></div>
                             <div class="score-total">Հիմնված <?php echo esc_html($product->get_review_count() ?: '12'); ?> գնահատականների վրա</div>
                         </div>
                         <div class="sample-reviews-list">
                             <div class="review-item">
                                 <div class="review-header">
                                     <strong>Աննա Գ.</strong>
-                                    <span class="verified-pill">✓ Հաստատված գնորդ</span>
+                                    <span class="verified-pill"><i class="fa-solid fa-check"></i> Հաստատված գնորդ</span>
                                     <span class="review-date">3 օր առաջ</span>
                                 </div>
-                                <div class="review-stars">⭐⭐⭐⭐⭐</div>
+                                <div class="review-stars"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></div>
                                 <p>Շատ որակյալ խաղալիք է, երեխան անընդհատ խաղում է: Առաքումն էլ շատ արագ էր:</p>
                             </div>
                             <div class="review-item">
                                 <div class="review-header">
                                     <strong>Արմեն Ս.</strong>
-                                    <span class="verified-pill">✓ Հաստատված գնորդ</span>
+                                    <span class="verified-pill"><i class="fa-solid fa-check"></i> Հաստատված գնորդ</span>
                                     <span class="review-date">1 շաբաթ առաջ</span>
                                 </div>
-                                <div class="review-stars">⭐⭐⭐⭐⭐</div>
+                                <div class="review-stars"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></div>
                                 <p>Հիանալի նվեր էր: Որակը գերազանց է, անվտանգ նյութերից, առանց որևէ հոտի:</p>
                             </div>
                         </div>
@@ -305,7 +305,7 @@ while (have_posts()) :
         <div class="toysland-related-section">
             <div class="section-header">
                 <div class="section-title-wrap">
-                    <span class="section-subtitle">🧸 Ձեզ նույնպես կարող է դուր գալ</span>
+                    <span class="section-subtitle"><i class="fa-solid fa-shapes"></i> Ձեզ նույնպես կարող է դուր գալ</span>
                     <h2 class="section-title">Նմանատիպ խաղալիքներ</h2>
                 </div>
                 <a href="<?php echo esc_url(wc_get_page_permalink('shop')); ?>" class="section-view-all-link">

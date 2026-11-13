@@ -17,7 +17,7 @@ do_action('woocommerce_before_edit_account_address_form'); ?>
 
     <div class="account-edit-address-section">
         <div class="edit-address-header">
-            <h2 class="edit-address-heading">✏️ Խմբագրել <?php echo esc_html(mb_strtolower($page_title, 'UTF-8')); ?>ն</h2>
+            <h2 class="edit-address-heading"><i class="fa-solid fa-pen-to-square"></i> Խմբագրել <?php echo esc_html(mb_strtolower($page_title, 'UTF-8')); ?>ն</h2>
             <p class="edit-address-subheading">Լրացրեք հասցեի տվյալները՝ պատվերները ճիշտ վայր առաքելու համար:</p>
         </div>
 
@@ -39,7 +39,7 @@ do_action('woocommerce_before_edit_account_address_form'); ?>
                 <div class="edit-address-actions">
                     <?php wp_nonce_field('woocommerce-edit_address', 'woocommerce-edit-address-nonce'); ?>
                     <button type="submit" class="save-changes-btn" name="save_address" value="Պահպանել">
-                        <span>Պահպանել հասցեն 💾</span>
+                        <span><i class="fa-solid fa-floppy-disk"></i> Պահպանել հասցեն</span>
                     </button>
                     <input type="hidden" name="action" value="edit_address" />
                     <a href="<?php echo esc_url(wc_get_endpoint_url('edit-address')); ?>" class="cancel-link">

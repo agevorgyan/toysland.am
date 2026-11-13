@@ -10,13 +10,13 @@ if (!defined('ABSPATH')) {
 }
 
 $age_groups = [
-    ['slug' => 'all',   'name' => 'Բոլոր տարիքները', 'icon' => '👶'],
-    ['slug' => '0-1',   'name' => '0–1 տարեկան',     'icon' => '🍼'],
-    ['slug' => '1-3',   'name' => '1–3 տարեկան',     'icon' => '🧸'],
-    ['slug' => '3-5',   'name' => '3–5 տարեկան',     'icon' => '🎨'],
-    ['slug' => '5-8',   'name' => '5–8 տարեկան',     'icon' => '🚀'],
-    ['slug' => '8-12',  'name' => '8–12 տարեկան',    'icon' => '🧩'],
-    ['slug' => '12plus','name' => '12+ տարեկան',     'icon' => '🎮'],
+    ['slug' => 'all',   'name' => 'Բոլոր տարիքները', 'icon' => '<i class="fa-solid fa-users"></i>'],
+    ['slug' => '0-1',   'name' => '0–1 տարեկան',     'icon' => '<i class="fa-solid fa-baby-carriage"></i>'],
+    ['slug' => '1-3',   'name' => '1–3 տարեկան',     'icon' => '<i class="fa-solid fa-shapes"></i>'],
+    ['slug' => '3-5',   'name' => '3–5 տարեկան',     'icon' => '<i class="fa-solid fa-palette"></i>'],
+    ['slug' => '5-8',   'name' => '5–8 տարեկան',     'icon' => '<i class="fa-solid fa-rocket"></i>'],
+    ['slug' => '8-12',  'name' => '8–12 տարեկան',    'icon' => '<i class="fa-solid fa-puzzle-piece"></i>'],
+    ['slug' => '12plus','name' => '12+ տարեկան',     'icon' => '<i class="fa-solid fa-gamepad"></i>'],
 ];
 
 $query = new WP_Query([
@@ -30,7 +30,7 @@ $query = new WP_Query([
     <div class="container">
         <div class="section-header" style="justify-content:center;text-align:center;">
             <div class="section-title-wrap">
-                <span class="section-subtitle">🎯 Խաղալիքներ ըստ տարիքի</span>
+                <span class="section-subtitle"><i class="fa-solid fa-bullseye"></i> Խաղալիքներ ըստ տարիքի</span>
                 <h2 class="section-title">Ընտրեք Ձեր երեխայի տարիքը</h2>
             </div>
         </div>
@@ -38,7 +38,7 @@ $query = new WP_Query([
         <div class="age-tabs-bar">
             <?php foreach ($age_groups as $index => $group) : ?>
                 <button type="button" class="age-tab-btn <?php echo $index === 0 ? 'is-active' : ''; ?>" data-age="<?php echo esc_attr($group['slug']); ?>">
-                    <span class="age-icon"><?php echo esc_html($group['icon']); ?></span>
+                    <span class="age-icon"><?php echo $group['icon']; ?></span>
                     <span><?php echo esc_html($group['name']); ?></span>
                 </button>
             <?php endforeach; ?>

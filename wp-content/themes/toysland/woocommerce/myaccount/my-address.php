@@ -28,16 +28,16 @@ $get_addresses = apply_filters(
     <div class="addresses-grid">
         <?php foreach ($get_addresses as $name => $address_title) :
             $address = wc_get_account_formatted_address($name);
-            $icon = ($name === 'shipping') ? '🚚' : '💳';
+            $icon = ($name === 'shipping') ? '<i class="fa-solid fa-truck-fast"></i>' : '<i class="fa-solid fa-credit-card"></i>';
         ?>
             <div class="address-card">
                 <div class="address-card-header">
                     <div class="address-type">
-                        <span class="addr-icon"><?php echo esc_html($icon); ?></span>
+                        <span class="addr-icon"><?php echo $icon; // phpcs:ignore ?></span>
                         <h3 class="addr-title"><?php echo esc_html($address_title); ?></h3>
                     </div>
                     <a href="<?php echo esc_url(wc_get_endpoint_url('edit-address', $name)); ?>" class="edit-addr-btn">
-                        <span>✏️ Խմբագրել</span>
+                        <span><i class="fa-solid fa-pen-to-square"></i> Խմբագրել</span>
                     </a>
                 </div>
                 <div class="address-card-body">

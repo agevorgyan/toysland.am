@@ -48,7 +48,7 @@ $items_count = $cart ? $cart->get_cart_contents_count() : 0;
                         <circle cx="20" cy="21" r="1.5"/>
                         <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>
                     </svg>
-                    <span class="empty-sparkle">✨</span>
+                    <span class="empty-sparkle"><i class="fa-solid fa-wand-magic-sparkles"></i></span>
                 </div>
                 <h2 class="empty-title">Ձեր զամբյուղը դատարկ է</h2>
                 <p class="empty-description">
@@ -67,19 +67,19 @@ $items_count = $cart ? $cart->get_cart_contents_count() : 0;
                     <div class="empty-cats-grid">
                         <?php
                         $popular_cats = [
-                            ['slug' => 'soft-toys', 'name' => 'Փափուկ խաղալիքներ', 'emoji' => '🧸'],
-                            ['slug' => 'construction', 'name' => 'Կոնստրուկտորներ', 'emoji' => '🧩'],
-                            ['slug' => 'learning', 'name' => 'Ուսուցողական', 'emoji' => '🧠'],
-                            ['slug' => 'vehicles', 'name' => 'Մեքենաներ', 'emoji' => '🚗'],
-                            ['slug' => 'board-games', 'name' => 'Սեղանի խաղեր', 'emoji' => '🎲'],
-                            ['slug' => 'outdoor', 'name' => 'Բացօթյա խաղեր', 'emoji' => '☀️'],
+                            ['slug' => 'soft-toys', 'name' => 'Փափուկ խաղալիքներ', 'icon' => '<i class="fa-solid fa-shapes"></i>'],
+                            ['slug' => 'construction', 'name' => 'Կոնստրուկտորներ', 'icon' => '<i class="fa-solid fa-puzzle-piece"></i>'],
+                            ['slug' => 'learning', 'name' => 'Ուսուցողական', 'icon' => '<i class="fa-solid fa-brain"></i>'],
+                            ['slug' => 'vehicles', 'name' => 'Մեքենաներ', 'icon' => '<i class="fa-solid fa-car"></i>'],
+                            ['slug' => 'board-games', 'name' => 'Սեղանի խաղեր', 'icon' => '<i class="fa-solid fa-dice"></i>'],
+                            ['slug' => 'outdoor', 'name' => 'Բացօթյա խաղեր', 'icon' => '<i class="fa-solid fa-sun"></i>'],
                         ];
                         foreach ($popular_cats as $cat_item) :
                             $term = get_term_by('slug', $cat_item['slug'], 'product_cat');
                             $cat_url = $term && !is_wp_error($term) ? get_term_link($term) : wc_get_page_permalink('shop');
                         ?>
                             <a href="<?php echo esc_url($cat_url); ?>" class="empty-cat-pill">
-                                <span class="empty-cat-emoji"><?php echo esc_html($cat_item['emoji']); ?></span>
+                                <span class="empty-cat-emoji"><?php echo $cat_item['icon']; ?></span>
                                 <span class="empty-cat-name"><?php echo esc_html($cat_item['name']); ?></span>
                             </a>
                         <?php endforeach; ?>
@@ -107,7 +107,7 @@ $items_count = $cart ? $cart->get_cart_contents_count() : 0;
             <div class="cart-shipping-banner js-shipping-banner <?php echo $is_free_shipping ? 'is-free-unlocked' : ''; ?>">
                 <div class="cart-shipping-banner-top">
                     <div class="cart-shipping-icon-box">
-                        <span class="shipping-icon js-shipping-icon"><?php echo $is_free_shipping ? '🎉' : '🚚'; ?></span>
+                        <span class="shipping-icon js-shipping-icon"><?php echo $is_free_shipping ? '<i class="fa-solid fa-award"></i>' : '<i class="fa-solid fa-truck-fast"></i>'; ?></span>
                     </div>
                     <div class="cart-shipping-info">
                         <div class="cart-shipping-msg js-shipping-msg">
@@ -291,7 +291,7 @@ $items_count = $cart ? $cart->get_cart_contents_count() : 0;
                                         <div class="summary-row summary-coupon-row">
                                             <span class="summary-label">
                                                 Կտրոն: <strong><?php echo esc_html($code); ?></strong>
-                                                <a href="<?php echo esc_url(wc_get_cart_remove_coupon_url($code)); ?>" class="remove-coupon-link" title="Հեռացնել կտրոնը">✕</a>
+                                                <a href="<?php echo esc_url(wc_get_cart_remove_coupon_url($code)); ?>" class="remove-coupon-link" title="Հեռացնել կտրոնը"><i class="fa-solid fa-xmark"></i></a>
                                             </span>
                                             <span class="summary-value coupon-discount-val">
                                                 -<?php echo wp_kses_post(wc_price($cart->get_coupon_discount_amount($code))); ?>
@@ -340,21 +340,21 @@ $items_count = $cart ? $cart->get_cart_contents_count() : 0;
                             <!-- Trust Features Card -->
                             <div class="cart-trust-badges">
                                 <div class="trust-badge-item">
-                                    <div class="trust-badge-icon">🚚</div>
+                                    <div class="trust-badge-icon"><i class="fa-solid fa-truck-fast"></i></div>
                                     <div class="trust-badge-text">
                                         <strong>Արագ առաքում Երևանում</strong>
                                         <span>1 աշխատանքային օրվա ընթացքում</span>
                                     </div>
                                 </div>
                                 <div class="trust-badge-item">
-                                    <div class="trust-badge-icon">🛡️</div>
+                                    <div class="trust-badge-icon"><i class="fa-solid fa-shield-halved"></i></div>
                                     <div class="trust-badge-text">
                                         <strong>100% Որակյալ և ապահով</strong>
                                         <span>Սերտիֆիկացված էկոլոգիապես մաքուր խաղալիքներ</span>
                                     </div>
                                 </div>
                                 <div class="trust-badge-item">
-                                    <div class="trust-badge-icon">🔄</div>
+                                    <div class="trust-badge-icon"><i class="fa-solid fa-rotate-left"></i></div>
                                     <div class="trust-badge-text">
                                         <strong>Հետվերադարձի երաշխիք</strong>
                                         <span>14 օրվա ընթացքում անխոչընդոտ փոխանակում</span>

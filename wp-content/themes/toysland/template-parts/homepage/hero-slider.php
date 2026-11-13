@@ -20,7 +20,7 @@ $theme_uri = get_template_directory_uri();
                     <img src="<?php echo esc_url($theme_uri . '/assets/images/hero-toys-1.jpg'); ?>" alt="Խաղալ, սովորել, զարգանալ" class="hero-slide-bg" loading="eager">
                     <div class="hero-slide-overlay"></div>
                     <div class="hero-slide-content">
-                        <span class="hero-tag">🌟 Նոր Հավաքածու 2026</span>
+                        <span class="hero-tag"><i class="fa-solid fa-star"></i> Նոր Հավաքածու 2026</span>
                         <h1 class="hero-title">Խաղալ, սովորել, <span>զարգանալ</span>՝ ամեն օր</h1>
                         <p class="hero-desc">Զարգացնող խաղեր, փայտե կոնստրուկտորներ և ստեղծագործական հավաքածուներ, որոնք զարգացնում են երեխայի միտքն ու երևակայությունը:</p>
                         <div class="hero-cta-group">
@@ -40,7 +40,7 @@ $theme_uri = get_template_directory_uri();
                     <img src="<?php echo esc_url($theme_uri . '/assets/images/hero-toys-2.jpg'); ?>" alt="Փափուկ ընկերներ և տիկնիկներ" class="hero-slide-bg" loading="lazy">
                     <div class="hero-slide-overlay"></div>
                     <div class="hero-slide-content">
-                        <span class="hero-tag">🧸 Սիրելի Փափուկ Խաղալիքներ</span>
+                        <span class="hero-tag"><i class="fa-solid fa-shapes"></i> Սիրելի Փափուկ Խաղալիքներ</span>
                         <h2 class="hero-title">Փափուկ ընկերներ և <span>կախարդական</span> տիկնիկներ</h2>
                         <p class="hero-desc">Ամենաջերմ, անվտանգ արջուկներն ու նորաձև տիկնիկների հավաքածուները՝ ստեղծված անսահման գրկախառնությունների և ուրախ խաղերի համար:</p>
                         <div class="hero-cta-group">
@@ -57,7 +57,7 @@ $theme_uri = get_template_directory_uri();
                     <img src="<?php echo esc_url($theme_uri . '/assets/images/hero-toys-3.jpg'); ?>" alt="Արագություն և արկածներ" class="hero-slide-bg" loading="lazy">
                     <div class="hero-slide-overlay"></div>
                     <div class="hero-slide-content">
-                        <span class="hero-tag">🏎️ Hot Wheels & LEGO</span>
+                        <span class="hero-tag"><i class="fa-solid fa-car-burst"></i> Hot Wheels & LEGO</span>
                         <h2 class="hero-title">Արագություն, <span>արկածներ</span> և տեխնիկա</h2>
                         <p class="hero-desc">Հեռակառավարվող մեքենաներ, մրցարշավային ուղիներ և LEGO կոնստրուկտորներ ապագա ինժեներների համար:</p>
                         <div class="hero-cta-group">

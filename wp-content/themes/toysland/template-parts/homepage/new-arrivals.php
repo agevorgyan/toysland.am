@@ -23,7 +23,7 @@ $query = new WP_Query($args);
     <div class="container">
         <div class="section-header">
             <div class="section-title-wrap">
-                <span class="section-subtitle">✨ Թարմ համալրում</span>
+                <span class="section-subtitle"><i class="fa-solid fa-wand-magic-sparkles"></i> Թարմ համալրում</span>
                 <h2 class="section-title">Նորույթներ</h2>
             </div>
             <a href="<?php echo esc_url(wc_get_page_permalink('shop')); ?>" class="section-view-all-link">

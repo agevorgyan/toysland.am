@@ -14,7 +14,7 @@ do_action('woocommerce_before_lost_password_form');
     <div class="lost-pwd-card">
         
         <div class="lost-pwd-header">
-            <div class="lock-icon-badge">🔑</div>
+            <div class="lock-icon-badge"><i class="fa-solid fa-key"></i></div>
             <h2 class="lost-pwd-title">Վերականգնել գաղտնաբառը</h2>
             <p class="lost-pwd-subtitle">
                 Մուտքագրեք Ձեր էլ. հասցեն կամ օգտանունը: Մենք կուղարկենք հղում, որի միջոցով կկարողանաք ստեղծել նոր գաղտնաբառ:
@@ -28,7 +28,7 @@ do_action('woocommerce_before_lost_password_form');
                     Մուտքանուն կամ էլ. հասցե <span class="required">*</span>
                 </label>
                 <div class="auth-input-wrap">
-                    <span class="input-icon">✉️</span>
+                    <span class="input-icon"><i class="fa-solid fa-envelope"></i></span>
                     <input class="woocommerce-Input woocommerce-Input--text input-text auth-input" 
                            type="text" 
                            name="user_login" 
@@ -45,7 +45,7 @@ do_action('woocommerce_before_lost_password_form');
             <div class="lost-pwd-actions">
                 <input type="hidden" name="wc_reset_password" value="true" />
                 <button type="submit" class="lost-pwd-submit-btn" value="Վերականգնել">
-                    <span>Ուղարկել հղումը ✉️</span>
+                    <span>Ուղարկել հղումը <i class="fa-solid fa-paper-plane" style="font-size:13px;"></i></span>
                 </button>
             </div>
 
@@ -53,7 +53,7 @@ do_action('woocommerce_before_lost_password_form');
 
             <div class="back-to-login">
                 <a href="<?php echo esc_url(wc_get_page_permalink('myaccount')); ?>" class="back-login-link">
-                    ← Վերադառնալ մուտքի էջ
+                    <i class="fa-solid fa-arrow-left"></i> Վերադառնալ մուտքի էջ
                 </a>
             </div>
 
@@ -64,4 +64,3 @@ do_action('woocommerce_before_lost_password_form');
 
 <?php
 do_action('woocommerce_after_lost_password_form');
-

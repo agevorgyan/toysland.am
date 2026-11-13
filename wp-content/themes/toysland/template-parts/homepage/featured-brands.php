@@ -15,7 +15,7 @@ $theme_uri = get_template_directory_uri();
     <div class="container">
         <div class="section-header">
             <div class="section-title-wrap">
-                <span class="section-subtitle">⭐ Համաշխարհային բրենդներ</span>
+                <span class="section-subtitle"><i class="fa-solid fa-star"></i> Համաշխարհային բրենդներ</span>
                 <h2 class="section-title">Սիրված ապրանքանիշներ</h2>
             </div>
             <a href="<?php echo esc_url(wc_get_page_permalink('shop')); ?>" class="section-view-all-link">

@@ -33,7 +33,7 @@ $new_url  = add_query_arg('orderby', 'date', $shop_url);
             <!-- Sales / Promotions -->
             <li class="nav-item <?php echo (isset($_GET['on_sale']) && $_GET['on_sale'] == '1') ? 'is-active' : ''; ?>">
                 <a href="<?php echo esc_url($sale_url); ?>" class="nav-link nav-link-hot">
-                    <span class="nav-link-icon">🔥</span>
+                    <span class="nav-link-icon"><i class="fa-solid fa-fire"></i></span>
                     <span>Ակցիաներ</span>
                     <span class="nav-badge-pill nav-badge-hot">HOT</span>
                 </a>
@@ -42,7 +42,7 @@ $new_url  = add_query_arg('orderby', 'date', $shop_url);
             <!-- New Arrivals -->
             <li class="nav-item <?php echo (isset($_GET['orderby']) && $_GET['orderby'] == 'date') ? 'is-active' : ''; ?>">
                 <a href="<?php echo esc_url($new_url); ?>" class="nav-link">
-                    <span class="nav-link-icon">✨</span>
+                    <span class="nav-link-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></span>
                     <span>Նորույթներ</span>
                     <span class="nav-badge-pill nav-badge-new">NEW</span>
                 </a>
@@ -51,7 +51,7 @@ $new_url  = add_query_arg('orderby', 'date', $shop_url);
             <!-- Popular Brands -->
             <li class="nav-item">
                 <a href="<?php echo esc_url($shop_url); ?>" class="nav-link">
-                    <span class="nav-link-icon">🏷️</span>
+                    <span class="nav-link-icon"><i class="fa-solid fa-tag"></i></span>
                     <span>Բրենդներ</span>
                 </a>
             </li>
@@ -59,7 +59,7 @@ $new_url  = add_query_arg('orderby', 'date', $shop_url);
             <!-- Gift Ideas -->
             <li class="nav-item">
                 <a href="<?php echo esc_url($shop_url); ?>" class="nav-link">
-                    <span class="nav-link-icon">🎁</span>
+                    <span class="nav-link-icon"><i class="fa-solid fa-gift"></i></span>
                     <span>Նվերների գաղափարներ</span>
                 </a>
             </li>
@@ -67,7 +67,7 @@ $new_url  = add_query_arg('orderby', 'date', $shop_url);
             <!-- About Us -->
             <li class="nav-item <?php echo is_page('about') ? 'is-active' : ''; ?>">
                 <a href="<?php echo esc_url(home_url('/about/')); ?>" class="nav-link">
-                    <span class="nav-link-icon">ℹ️</span>
+                    <span class="nav-link-icon"><i class="fa-solid fa-circle-info"></i></span>
                     <span>Մեր մասին</span>
                 </a>
             </li>

@@ -192,7 +192,7 @@
 
         $btn.addClass('is-loading').prop('disabled', true);
         const originalText = $btn.html();
-        $btn.html('<span class="spinner-inline">⏳</span> Ավելացվում է...');
+        $btn.html('<span class="spinner-inline"><i class="fa-solid fa-spinner fa-spin"></i></span> Ավելացվում է...');
 
         $.ajax({
           url: toyslandData.ajaxUrl,
@@ -686,13 +686,13 @@
       if ($banner.length) {
         if (data.is_free_shipping) {
           $banner.addClass('is-free-unlocked');
-          $banner.find('.js-shipping-icon').text('🎉');
+          $banner.find('.js-shipping-icon').html('<i class="fa-solid fa-award"></i>');
           $banner.find('.js-shipping-msg').html('<strong>Շնորհավորո՜ւմ ենք:</strong> Դուք ստացել եք <strong>ԱՆՎՃԱՐ ԱՌԱՔՈՒՄ</strong> Երևանում:');
           $banner.find('.js-shipping-percent').text('100%');
           $banner.find('.js-shipping-fill').css('width', '100%');
         } else {
           $banner.removeClass('is-free-unlocked');
-          $banner.find('.js-shipping-icon').text('🚚');
+          $banner.find('.js-shipping-icon').html('<i class="fa-solid fa-truck-fast"></i>');
           $banner.find('.js-shipping-msg').html('Ավելացրեք ևս <strong class="js-shipping-remain">' + data.free_shipping_remaining + '</strong>-ի ապրանք՝ <strong>ԱՆՎՃԱՐ ԱՌԱՔՄԱՆ</strong> համար (Երևանում 15 000 ֏-ից):');
           $banner.find('.js-shipping-percent').text(data.free_shipping_percent + '%');
           $banner.find('.js-shipping-fill').css('width', data.free_shipping_percent + '%');

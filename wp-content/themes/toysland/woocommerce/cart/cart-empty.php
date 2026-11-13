@@ -30,7 +30,7 @@ if (!defined('ABSPATH')) {
                 <circle cx="20" cy="21" r="1.5"/>
                 <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>
             </svg>
-            <span class="empty-sparkle">✨</span>
+            <span class="empty-sparkle"><i class="fa-solid fa-wand-magic-sparkles"></i></span>
         </div>
         <h2 class="empty-title">Ձեր զամբյուղը դատարկ է</h2>
         <p class="empty-description">
@@ -49,19 +49,19 @@ if (!defined('ABSPATH')) {
             <div class="empty-cats-grid">
                 <?php
                 $popular_cats = [
-                    ['slug' => 'soft-toys', 'name' => 'Փափուկ խաղալիքներ', 'emoji' => '🧸'],
-                    ['slug' => 'construction', 'name' => 'Կոնստրուկտորներ', 'emoji' => '🧩'],
-                    ['slug' => 'learning', 'name' => 'Ուսուցողական', 'emoji' => '🧠'],
-                    ['slug' => 'vehicles', 'name' => 'Մեքենաներ', 'emoji' => '🚗'],
-                    ['slug' => 'board-games', 'name' => 'Սեղանի խաղեր', 'emoji' => '🎲'],
-                    ['slug' => 'outdoor', 'name' => 'Բացօթյա խաղեր', 'emoji' => '☀️'],
+                    ['slug' => 'soft-toys', 'name' => 'Փափուկ խաղալիքներ', 'icon' => '<i class="fa-solid fa-shapes"></i>'],
+                    ['slug' => 'construction', 'name' => 'Կոնստրուկտորներ', 'icon' => '<i class="fa-solid fa-puzzle-piece"></i>'],
+                    ['slug' => 'learning', 'name' => 'Ուսուցողական', 'icon' => '<i class="fa-solid fa-brain"></i>'],
+                    ['slug' => 'vehicles', 'name' => 'Մեքենաներ', 'icon' => '<i class="fa-solid fa-car"></i>'],
+                    ['slug' => 'board-games', 'name' => 'Սեղանի խաղեր', 'icon' => '<i class="fa-solid fa-dice"></i>'],
+                    ['slug' => 'outdoor', 'name' => 'Բացօթյա խաղեր', 'icon' => '<i class="fa-solid fa-sun"></i>'],
                 ];
                 foreach ($popular_cats as $cat_item) :
                     $term = get_term_by('slug', $cat_item['slug'], 'product_cat');
                     $cat_url = $term && !is_wp_error($term) ? get_term_link($term) : wc_get_page_permalink('shop');
                 ?>
                     <a href="<?php echo esc_url($cat_url); ?>" class="empty-cat-pill">
-                        <span class="empty-cat-emoji"><?php echo esc_html($cat_item['emoji']); ?></span>
+                        <span class="empty-cat-emoji"><?php echo $cat_item['icon']; ?></span>
                         <span class="empty-cat-name"><?php echo esc_html($cat_item['name']); ?></span>
                     </a>
                 <?php endforeach; ?>

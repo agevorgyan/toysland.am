@@ -171,7 +171,7 @@ function toysland_validate_checkout_phone() {
  */
 add_filter('woocommerce_thankyou_order_received_text', 'toysland_custom_thankyou_text', 10, 2);
 function toysland_custom_thankyou_text($text, $order) {
-    return 'Շնորհակալություն: Ձեր պատվերը հաջողությամբ ընդունված է: Մեր մասնագետը շուտով կկապնվի Ձեզ հետ՝ առաքման մանրամասները ճշտելու համար: 🎉';
+    return 'Շնորհակալություն: Ձեր պատվերը հաջողությամբ ընդունված է: Մեր մասնագետը շուտով կկապնվի Ձեզ հետ՝ առաքման մանրամասները ճշտելու համար:';
 }
 
 /**

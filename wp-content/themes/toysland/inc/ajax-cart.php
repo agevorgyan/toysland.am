@@ -124,9 +124,9 @@ function toysland_render_mini_cart_items() {
     <div class="free-shipping-meter-wrap">
         <div class="free-shipping-text">
             <?php if ($remaining > 0) : ?>
-                <span>🚚 Մնացել է <strong><?php echo esc_html(toysland_price($remaining)); ?></strong> անվճար առաքման համար!</span>
+                <span><i class="fa-solid fa-truck-fast"></i> Մնացել է <strong><?php echo esc_html(toysland_price($remaining)); ?></strong> անվճար առաքման համար!</span>
             <?php else : ?>
-                <span>🎉 Շնորհավորում ենք! Դուք ստացել եք <strong>ԱՆՎՃԱՐ ԱՌԱՔՈՒՄ</strong>:</span>
+                <span><i class="fa-solid fa-award"></i> Շնորհավորում ենք! Դուք ստացել եք <strong>ԱՆՎՃԱՐ ԱՌԱՔՈՒՄ</strong>:</span>
             <?php endif; ?>
         </div>
         <div class="meter-track">
@@ -157,7 +157,7 @@ function toysland_render_mini_cart_items() {
                         <button type="button" class="qty-btn qty-minus" data-key="<?php echo esc_attr($cart_item_key); ?>" data-qty="<?php echo esc_attr($cart_item['quantity'] - 1); ?>">−</button>
                         <span class="qty-display"><?php echo esc_html($cart_item['quantity']); ?></span>
                         <button type="button" class="qty-btn qty-plus" data-key="<?php echo esc_attr($cart_item_key); ?>" data-qty="<?php echo esc_attr($cart_item['quantity'] + 1); ?>">+</button>
-                        <button type="button" class="drawer-remove-item" data-key="<?php echo esc_attr($cart_item_key); ?>" title="Հեռացնել">✕</button>
+                        <button type="button" class="drawer-remove-item" data-key="<?php echo esc_attr($cart_item_key); ?>" title="Հեռացնել"><i class="fa-solid fa-xmark"></i></button>
                     </div>
                 </div>
             </div>
