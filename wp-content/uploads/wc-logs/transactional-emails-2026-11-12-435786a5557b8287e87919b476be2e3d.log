@@ -1,0 +1,8 @@
+2026-11-12T18:16:11+00:00 INFO Email "admin_payment_gateway_enabled" sent CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"sent","recipient":"admin","WC_Gateway_COD":null}
+2026-11-12T18:16:11+00:00 INFO Email "admin_payment_gateway_enabled" sent CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"sent","recipient":"admin","WC_Gateway_BACS":null}
+2026-11-12T19:46:49+00:00 INFO Email "new_order" for order #67 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":67}
+2026-11-12T19:46:49+00:00 INFO Email "customer_processing_order" for order #67 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"guest","order":67}
+2026-11-12T20:10:19+00:00 INFO Email "new_order" for order #70 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":70}
+2026-11-12T20:10:19+00:00 INFO Email "customer_processing_order" for order #70 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"guest","order":70}
+2026-11-12T20:23:15+00:00 INFO Email "new_order" for order #72 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":72}
+2026-11-12T20:23:15+00:00 INFO Email "customer_processing_order" for order #72 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"guest","order":72}
